@@ -1,8 +1,4 @@
-img {
-    border-radius: 50%;
-}
-
-.Header img {
+.Header img.Profile {
     float: left;
     position: relative;
     left: 50px;
@@ -12,27 +8,55 @@ img {
     border-radius: 50%;
 }
 
-.Header left_button {
-    left: 150px;
-    top: 80px;
+.Header button.left_button {
+    position: relative;
+    right: 140px;
+    top: 90px;
 }
 
-.Header right_button {
+.Header button.right_button {
     position: relative;
-    left: 100px;
-    top: 80px;
+    right: 10px;
+    top: 90px;
+}
+
+.Header h3.time {
+    position: relative;
+    right: 65px;
+    top: 130px;
+    color: #fff;
 }
 
 .Header h2 {
     position: relative;
-    top: 50px;
+    top: -20px;
     left: 60px;
     font-size: 25px;
 }
 
-.Header h1 {
+.Header h1.Name {
     position: relative;
-    top: 15px;
+    top: -60px;
     left: 100px;
     font-size: 50px;
+}
+
+.Divider {
+    border-bottom: 3px solid rgb(190, 190, 190);
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+
+.Platforms button.Social {
+    position: relative;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.Platforms img.Social {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
 }
