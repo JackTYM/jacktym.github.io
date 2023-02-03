@@ -97,3 +97,72 @@
     border-radius: 50%;
     cursor: pointer;
 }
+
+.About {
+    display: flex;
+    justify-content: center; /* center the sections horizontally */
+    padding: 0 10%;
+    margin: 0 auto;
+}
+
+.Section {
+    flex-basis: 45%;
+    padding: 10px;
+    justify-content: center;
+    margin: 0 20px;
+}
+
+.About > .Section { /* add space between the sections */
+    margin: 0 20px;
+}
+
+.Section h3 {
+    font-size: 3vw;
+    text-align: center;
+}
+
+.Section ul, p {
+    font-size: 1vw;
+    word-wrap: break-word;
+    margin-left: 20%;
+    margin-top: -7%;
+}
+
+.Section p {
+    margin-left: 0%;
+    text-align: center;
+}
+
+.Projects {
+    border: 3px solid black;
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+
+.Language {
+    border-right: 3px solid black;
+    width: 25%;
+    text-align: center;
+    line-height: 50px;
+}
+
+.Language h2 {
+    margin-top: -10px;
+}
+
+.Language:last-child {
+    border-right: none;
+}
+
+.Project {
+    border: 1px solid black;
+}
+
+.Language Project:first-child {
+    border-top: 3px solid black;
+}
+
+.Language Project:last-child {
+    border-bottom: 3px solid black;
+}
