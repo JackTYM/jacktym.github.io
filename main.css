@@ -1,23 +1,63 @@
+#textContainer {
+    position: relative;
+}
+
+#fadingText {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    animation: fade 10s linear infinite;
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.Header {
+    display: flex;
+    align-items: center;
+}
+
 .Header img.Profile {
     float: left;
     position: relative;
-    left: 50px;
-    width: 200px;
-    height: 200px;
-    background: #555;
+    left: 2.5%;
+    width: 20%;
+    height: 20%;
     border-radius: 50%;
 }
 
-.Header button.left_button {
-    position: relative;
-    right: 140px;
-    top: 90px;
+.Header button {
+    position: absolute;
+    top: 5%;
+    height: 3%;
+    font-size: 2vw;
 }
 
-.Header button.right_button {
-    position: relative;
-    right: 10px;
-    top: 90px;
+.Header .text-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 4%;
+    margin-top: -4%;
+}
+
+.Header h2 {
+    font-size: 9vw;
+    margin-bottom: -10%;
+}
+
+.Header h1.Name {
+    font-size: 5vw;
+    margin-left: 8%;
 }
 
 .Header h3.time {
@@ -27,40 +67,33 @@
     color: #fff;
 }
 
-.Header h2 {
-    position: relative;
-    top: -20px;
-    left: 60px;
-    font-size: 25px;
-}
-
-.Header h1.Name {
-    position: relative;
-    top: -60px;
-    left: 100px;
-    font-size: 50px;
-}
-
 .Divider {
     position: relative;
     border-bottom: 3px solid rgb(190, 190, 190);
     width: 80%;
     margin: 0 auto;
     display: block;
-    z-index: 2;
 }
 
-.Platforms button.Social {
-    position: relative;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    z-index: 1;
+.Platforms {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    padding: 0.5% 15%;
+    margin: 0 auto;
 }
 
-.Platforms img.Social {
+.Platforms button {
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Platforms img {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50%;
+    cursor: pointer;
 }
