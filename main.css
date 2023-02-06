@@ -164,33 +164,15 @@ iframe {
 
 
 .Projects {
-    border: 3px solid #8B80F9;
-    display: flex;
-    width: 50%;
-    margin: auto;
+    display: block;
 }
 
 .Language {
-    border-right: 3px solid #8B80F9;
-    width: 25%;
-    text-align: center;
-    line-height: 50px;
-}
-
-.Language:last-child {
-    border-right: none;
+    display: flex;
 }
 
 .Project {
-    border-bottom: 3px solid #8B80F9;
-}
-
-.Language .Project:first-of-type {
-    border-top: 3px solid #8B80F9;
-}
-
-.Language .Project:last-of-type {
-    border-bottom: 3px solid #8B80F9;
+    margin-left: 10%;
 }
 
 .Contact {
