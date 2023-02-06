@@ -1,3 +1,8 @@
+body {
+    background-color: #10101a;
+    color: lightgray;
+}
+
 #textContainer {
     position: relative;
 }
@@ -41,6 +46,8 @@
     top: 5%;
     height: 3%;
     font-size: 2vw;
+    background-color: #6CD4FF;
+    color: #173753;
 }
 
 .Header .text-container {
@@ -57,19 +64,26 @@
 
 .Header h1.Name {
     font-size: 5vw;
-    margin-left: 8%;
+    margin-left: 7%;
+    background: -webkit-linear-gradient(left, #a784ed , #6ec2f8);
+    background: -o-linear-gradient(right, #a784ed, #6ec2f8);
+    background: -moz-linear-gradient(right, #a784ed, #6ec2f8);
+    background: linear-gradient(to right, #a784ed , #6ec2f8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
 }
 
 .Header h3.time {
     position: relative;
     right: 65px;
     top: 130px;
-    color: #fff;
+    color: #8B80F9;
 }
 
 .Divider {
     position: relative;
-    border-bottom: 3px solid rgb(190, 190, 190);
+    border-bottom: 3px solid lightgray;
     width: 80%;
     margin: 0 auto;
     display: block;
@@ -110,6 +124,8 @@
     padding: 10px;
     justify-content: center;
     margin: 0 20px;
+    background-image: url("CommandPromptBG.png");
+    background-size: cover;
 }
 
 .About > .Section { /* add space between the sections */
@@ -117,38 +133,48 @@
 }
 
 .Section h3 {
-    font-size: 3vw;
-    text-align: center;
+    font-size: 1vw;
+    font-weight: normal;
+    color: lightgray;
+    margin-top: 0.2vw;
+    margin-left: 5%;
+    font-family: Consolas, serif;
 }
 
 .Section ul, p {
-    font-size: 1.5vw;
+    font-size: 0.8vw;
     word-wrap: break-word;
-    margin-left: 20%;
-    margin-top: -7%;
+    margin-top: 0;
+    color: lightgray;
+    text-align: left;
+    font-family: Consolas, serif;
 }
 
-.Section p {
-    margin-left: 0%;
+h1 {
     text-align: center;
+    color: #a0b1cd;
+    font-size: 2vw;
+    margin-bottom: 0.5%;
 }
+
+iframe {
+    display:block;
+    margin: 0 auto;
+}
+
 
 .Projects {
-    border: 3px solid black;
+    border: 3px solid #8B80F9;
     display: flex;
-    width: 80%;
+    width: 50%;
     margin: auto;
 }
 
 .Language {
-    border-right: 3px solid black;
+    border-right: 3px solid #8B80F9;
     width: 25%;
     text-align: center;
     line-height: 50px;
-}
-
-.Language h2 {
-    margin-top: -10px;
 }
 
 .Language:last-child {
@@ -156,9 +182,21 @@
 }
 
 .Project {
-    border-bottom: 2px solid black;
+    border-bottom: 3px solid #8B80F9;
 }
 
 .Language .Project:first-of-type {
-    border-top: 2px solid black;
+    border-top: 3px solid #8B80F9;
+}
+
+.Language .Project:last-of-type {
+    border-bottom: 3px solid #8B80F9;
+}
+
+.Contact {
+    text-align: center;
+}
+
+.Contact h2 {
+    text-align: center;
 }

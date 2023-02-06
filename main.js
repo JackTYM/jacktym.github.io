@@ -1,4 +1,31 @@
 document.addEventListener("DOMContentLoaded", function () {
+    /*const spotify = document.getElementById("spotify")
+
+    fetch("https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=jacktym&api_key=8851234eb5c54a6f9853de93f26c0288&format=json&limit=1", {
+        method: "GET",
+        headers: {
+            "Accept": "application/json",
+            "Content-Type": "application/json",
+        }
+    })
+        .then(response => response.json())
+        .then(data => {
+            const artistName = data.recenttracks.track[0].artist["#text"];
+            const trackName = data.recenttracks.track[0].name;
+            fetch(`https://api.spotify.com/v1/search?q=${encodeURIComponent(`track:${trackName} artist:${artistName}`)}&type=track`)
+                .then(response => response.json())
+                .then(searchResult => {
+                    console.log(searchResult)
+                    const track = searchResult.tracks.items[0];
+                    spotify.src = `https://open.spotify.com/embed/track/${track.id}?utm_source=generator&theme=0`;
+                });
+        })
+        .catch(error => {
+            console.error(error);
+        });
+
+    spotify.height = "500";*/
+
     const copyButton = document.getElementById("Discord");
     copyButton.addEventListener("click", () => {
         const textToCopy = "JackTYM#3898";
@@ -30,8 +57,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     let currentValue = 1;
-    setInterval(function() {
-        $("#fadingName").fadeOut(1000, function() {
+    setInterval(function () {
+        $("#fadingName").fadeOut(1000, function () {
             $("#fadingName").text(currentValue === 1 ? "JackTYM" : "Jackson Yarger");
             $("#fadingName").fadeIn(1000);
             currentValue = currentValue === 1 ? 2 : 1;
