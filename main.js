@@ -64,4 +64,40 @@ document.addEventListener("DOMContentLoaded", function () {
             currentValue = currentValue === 1 ? 2 : 1;
         });
     }, 5000);
+
+    let isScrolling = false;
+
+    $('.Language').on('mouseup', function(e) {
+        if (!isScrolling) {
+            $('.Language a').off('click');
+        }
+    });
+
+    $('.Language a').on('click', function(e) {
+        if (isScrolling) {
+            e.preventDefault();
+        }
+    });
+
+    $('.Language').on('mousedown', function(e) {
+        e.preventDefault();
+        var initialX = e.pageX;
+        var scrollLeft = $(this).scrollLeft();
+
+        $(this).on('mousemove', function(e) {
+            isScrolling = true;
+            var currentX = e.pageX;
+            $(this).scrollLeft(scrollLeft - currentX + initialX);
+        });
+
+        $(this).on('mouseup', function(e) {
+            isScrolling = false;
+            e.preventDefault();
+            $(this).off('mousemove');
+        });
+
+        $('.Language a').on('click', function(e) {
+            e.preventDefault();
+        });
+    });
 });
