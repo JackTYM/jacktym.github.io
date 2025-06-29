@@ -53,6 +53,9 @@ jobs:
               clones = requests.get(clones_url, headers=headers).json()
               visitors = requests.get(visitors_url, headers=headers).json()
 
+              print(f"https://api.github.com/repos/{user}/{name}/traffic/clones")
+              print(visitors)
+
               project_data = {
                   "name": name,
                   "stars": stars,
