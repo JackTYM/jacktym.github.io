@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
-
-env:
-  GH_TOKEN: ${{ secrets.MY_PAT }}
   
 jobs:
   update-stats:
@@ -25,7 +22,7 @@ jobs:
 
       - name: Update stats
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_PAT }}
           GH_USER: ${{ github.repository_owner }}
         run: |
           python3 - <<EOF
