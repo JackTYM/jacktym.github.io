@@ -2,16 +2,16 @@
   {
     "name": "AIOMacro",
     "stars": 35,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 746,
+    "visitors_unique": 271
   },
   {
     "name": "AIOMacroAuctionFlipper",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -26,56 +26,56 @@
   {
     "name": "ChildrenBeatingMassacre",
     "stars": 5,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "ClickHouse",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 19,
+    "clones_unique": 7,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "DemoFPS",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "FBLA23-24",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "hypixel-botnet-server",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "JacksUnblockedHub",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "JackTYM",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -90,104 +90,104 @@
   {
     "name": "JsUnblockedHub",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "JTools",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "MarketShark",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
+    "visitors_last_14_days": 13,
+    "visitors_unique": 6
   },
   {
     "name": "MarketSharkHeadless",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 12,
+    "clones_unique": 12,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4
   },
   {
     "name": "MarketSharkServer",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2
   },
   {
     "name": "RoR2Modding",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 3,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "RoR2WiiFitBoard",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "sha256-rs",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "ShadyAddons",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "ShoutTimer",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "SkyblockFlipper",
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 17,
+    "visitors_unique": 4
   },
   {
     "name": "SmartSchooling",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "THMCyberSecurityNotes",
     "stars": 2,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   }
