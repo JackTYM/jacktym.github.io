@@ -28,6 +28,7 @@ jobs:
           python3 - <<EOF
           import json
           import requests
+          import os
 
           headers = {
               "Authorization": f"token {os.getenv('GH_TOKEN')}",
