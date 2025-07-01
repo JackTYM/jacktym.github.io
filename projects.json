@@ -55,7 +55,7 @@
     "description": "An implementation of the open source Cofl backend automatically configured in docker compose",
     "language": "Java",
     "date": "2024-07-21",
-    "visibility": "Private",
+    "visibility": "Private"
   },
   {
     "name": "MarketSharkServer",
