@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
-  
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -36,36 +36,36 @@ jobs:
           }
 
           user = os.getenv('GH_USER')
-          repos_url = f"https://api.github.com/users/{user}/repos?per_page=100&type=public"
-          repos = requests.get(repos_url, headers=headers).json()
 
-          projects = []
-          for repo in repos:
-              name = repo['name']
-              stars = repo['stargazers_count']
+          with open('projects.json', 'r') as f:
+              projects = json.load(f)
 
-              clones_url = f"https://api.github.com/repos/{user}/{name}/traffic/clones"
-              visitors_url = f"https://api.github.com/repos/{user}/{name}/traffic/views"
+          updated_projects = []
+          for project in projects:
+              if project.get("visibility") != "Public":
+                  updated_projects.append(project)
+                  continue
 
-              clones = requests.get(clones_url, headers=headers).json()
-              visitors = requests.get(visitors_url, headers=headers).json()
+              repo_name = project["name"]
+              repo_url = f"https://api.github.com/repos/{user}/{repo_name}"
+              clones_url = f"{repo_url}/traffic/clones"
+              views_url = f"{repo_url}/traffic/views"
 
-              print(f"https://api.github.com/repos/{user}/{name}/traffic/clones")
-              print(visitors)
+              repo_resp = requests.get(repo_url, headers=headers).json()
+              clones_resp = requests.get(clones_url, headers=headers).json()
+              views_resp = requests.get(views_url, headers=headers).json()
 
-              project_data = {
-                  "name": name,
-                  "stars": stars,
-                  "clones_last_14_days": clones.get('count', 0),
-                  "clones_unique": clones.get('uniques', 0),
-                  "visitors_last_14_days": visitors.get('count', 0),
-                  "visitors_unique": visitors.get('uniques', 0)
-              }
+              project["stars"] = repo_resp.get("stargazers_count", 0)
+              project["clones_last_14_days"] = clones_resp.get("count", 0)
+              project["clones_unique"] = clones_resp.get("uniques", 0)
+              project["visitors_last_14_days"] = views_resp.get("count", 0)
+              project["visitors_unique"] = views_resp.get("uniques", 0)
 
-              projects.append(project_data)
+              updated_projects.append(project)
 
           with open('projects.json', 'w') as f:
-              json.dump(projects, f, indent=2)
+              json.dump(updated_projects, f, indent=2)
+          EOF
 
       - name: Commit and push updates
         run: |
@@ -75,6 +75,5 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update project stars and traffic"
+            git commit -m "Update public project stats"
             git push
-          fi
