@@ -4,8 +4,8 @@
     "stars": 35,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 716,
-    "visitors_unique": 274
+    "visitors_last_14_days": 702,
+    "visitors_unique": 273
   },
   {
     "name": "AIOMacroAuctionFlipper",
@@ -26,16 +26,16 @@
   {
     "name": "ChildrenBeatingMassacre",
     "stars": 5,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
   {
     "name": "ClickHouse",
     "stars": 0,
-    "clones_last_14_days": 19,
-    "clones_unique": 7,
+    "clones_last_14_days": 12,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -82,8 +82,8 @@
   {
     "name": "jacktym.github.io",
     "stars": 0,
-    "clones_last_14_days": 54,
-    "clones_unique": 34,
+    "clones_last_14_days": 61,
+    "clones_unique": 38,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -106,32 +106,32 @@
   {
     "name": "MarketShark",
     "stars": 1,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 8,
     "visitors_unique": 6
   },
   {
     "name": "MarketSharkHeadless",
     "stars": 1,
-    "clones_last_14_days": 12,
-    "clones_unique": 12,
-    "visitors_last_14_days": 4,
-    "visitors_unique": 4
+    "clones_last_14_days": 7,
+    "clones_unique": 7,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3
   },
   {
     "name": "MarketSharkServer",
     "stars": 1,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "RoR2Modding",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 3,
+    "clones_last_14_days": 6,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -162,8 +162,8 @@
   {
     "name": "ShoutTimer",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -172,8 +172,8 @@
     "stars": 1,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 16,
-    "visitors_unique": 3
+    "visitors_last_14_days": 18,
+    "visitors_unique": 4
   },
   {
     "name": "SmartSchooling",
