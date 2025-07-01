@@ -1,194 +1,282 @@
 [
   {
-    "name": "AIOMacro",
-    "stars": 35,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
-    "visitors_last_14_days": 702,
-    "visitors_unique": 273
-  },
-  {
-    "name": "AIOMacroAuctionFlipper",
-    "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "Alpha-Jump",
-    "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "ChildrenBeatingMassacre",
-    "stars": 5,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "ClickHouse",
-    "stars": 0,
-    "clones_last_14_days": 12,
-    "clones_unique": 4,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "DemoFPS",
-    "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "FBLA23-24",
-    "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "hypixel-botnet-server",
-    "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "JacksUnblockedHub",
-    "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "JackTYM",
-    "stars": 1,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "jacktym.github.io",
-    "stars": 0,
-    "clones_last_14_days": 61,
-    "clones_unique": 38,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "JsUnblockedHub",
-    "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "JTools",
-    "stars": 1,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "MarketShark",
-    "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 8,
-    "visitors_unique": 6
-  },
-  {
-    "name": "MarketSharkHeadless",
-    "stars": 1,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3
-  },
-  {
-    "name": "MarketSharkServer",
-    "stars": 1,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1
-  },
-  {
-    "name": "RoR2Modding",
-    "stars": 0,
-    "clones_last_14_days": 6,
-    "clones_unique": 4,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
-  },
-  {
-    "name": "RoR2WiiFitBoard",
-    "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "name": "TwitterSpider",
+    "description": "A twitter scraper designed to spider off of a user's following list and categorize by type using AI",
+    "language": "Python",
+    "date": "2025-07-16",
+    "visibility": "Private"
   },
   {
     "name": "sha256-rs",
-    "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "description": "A rust implementation of the NSA's SHA256 Protocol with research and math documents",
+    "language": "Rust",
+    "date": "2025-02-06",
+    "visibility": "Public"
   },
   {
-    "name": "ShadyAddons",
-    "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 1
+    "name": "ClickHouse",
+    "description": "Clickhouse clone to fix auth issues when ingesting data via S3 redirects",
+    "language": "C++",
+    "date": "2024-11-22",
+    "visibility": "Public"
   },
   {
-    "name": "ShoutTimer",
-    "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "name": "ClashOfKingsServer",
+    "description": "An updated version of the leaked Clash of Kings mobile PHP backend",
+    "language": "PHP",
+    "date": "2024-10-22",
+    "visibility": "Commission"
   },
   {
-    "name": "SkyblockFlipper",
-    "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
-    "visitors_last_14_days": 18,
-    "visitors_unique": 4
+    "name": "MarketSharkHeadless",
+    "description": "C++ Minecraft Client for automatic buying and reselling of Hypixel Skyblock Auction House items using the Cofl API",
+    "language": "C++",
+    "date": "2024-08-07",
+    "visibility": "Public"
   },
   {
-    "name": "SmartSchooling",
-    "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "name": "MarketSharkCofl",
+    "description": "An implementation of the open source Cofl backend automatically configured in docker compose",
+    "language": "Java",
+    "date": "2024-07-21",
+    "visibility": "Private"
+  },
+  {
+    "name": "MarketSharkServer",
+    "description": "The NodeJS Backend Server for the MarketShark Java and MarketSharkHeadless projects",
+    "language": "JavaScript",
+    "date": "2024-05-14",
+    "visibility": "Public"
+  },
+  {
+    "name": "MarketShark",
+    "description": "Hypixel Skyblock Auction Flipper using the Cofl API with a custom discord controlled backend, obfuscation, and gradle license builds",
+    "language": "Java",
+    "date": "2024-05-14",
+    "visibility": "Public"
+  },
+  {
+    "name": "VoidRewrite",
+    "description": "A rewrite of the Hypixel Skyblock Cofl Flipper mod 'Void' with skips removed and BAF integration",
+    "language": "Java",
+    "date": "2024-05-13",
+    "visibility": "Commission"
+  },
+  {
+    "name": "MinecraftDeletedNameAlerts",
+    "description": "A program to call the Mojang API to detect account deletions and allow users to snipe them. Used both proxies and IPV6 Subnetting in order to bypass Mojang Rate Limits",
+    "language": "GoLang",
+    "date": "2024-03-12",
+    "visibility": "Private"
   },
   {
     "name": "THMCyberSecurityNotes",
-    "stars": 2,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "description": "TryHackMe notes for CyberSecurity courses",
+    "language": "NodeJS",
+    "date": "2022-03-09",
+    "visibility": "Public"
+  },
+  {
+    "name": "LethalCompanySirroco",
+    "description": "An example mod to test the SDK for adding maps to Lethal Company via BepInEx",
+    "language": "C#",
+    "date": "2024-01-14",
+    "visibility": "Commission"
+  },
+  {
+    "name": "SmartSchooling",
+    "description": "Submission for the FBLA 23-24 App Development Competition",
+    "language": "Java",
+    "date": "2023-12-01",
+    "visibility": "Public"
+  },
+  {
+    "name": "DemoFPS",
+    "description": "A demo Unity FPS game including source movement and gun jump physics hosted on an Unblocked Games proxy",
+    "language": "C#",
+    "date": "2023-11-29",
+    "visibility": "Public"
+  },
+  {
+    "name": "FBLA23-24",
+    "description": "A demo Unity game for the FBLA 2023-2024 Game Development prompt. Cancelled for FBLAApp23-24",
+    "language": "C#",
+    "date": "2023-08-20",
+    "visibility": "Public"
+  },
+  {
+    "name": "HorrorGameJam",
+    "description": "An unfinished horror game for an Itch.Io game jam contest",
+    "language": "C#",
+    "date": "2023-06-18",
+    "visibility": "Private"
+  },
+  {
+    "name": "JacksUnblockedHub",
+    "description": "Ultraviolet proxy deployment with built in games, chat, full websocket support, and automatic wildcard domain SSL traffic",
+    "language": "NodeJS",
+    "date": "2022-05-18",
+    "visibility": "Public"
+  },
+  {
+    "name": "AccountSourcing",
+    "description": "Backend for Accounting Firm's feature 'Account Sourcing' which was designed to cache millions of skyblock player's stats to reach out and buy their accounts",
+    "language": "NodeJS",
+    "date": "2023-07-14",
+    "visibility": "Commission"
+  },
+  {
+    "name": "AccountingFirm",
+    "description": "Backend for Discord bot and website for the Accounting Firm Hypixel Skyblock account sale platform",
+    "language": "NodeJS",
+    "date": "2023-04-12",
+    "visibility": "Commission"
+  },
+  {
+    "name": "hypixel-botnet-server",
+    "description": "A Mineflayer botnet used to flood lobbies like classic games that typically dont get enough players to start",
+    "language": "NodeJS",
+    "date": "2023-03-31",
+    "visibility": "Public"
+  },
+  {
+    "name": "jacktym.github.io",
+    "description": "Web portfolio to showcase experience",
+    "language": "HTML",
+    "date": "2023-02-01",
+    "visibility": "Public"
+  },
+  {
+    "name": "YGTClient",
+    "description": "'You Got Trolled Client' a client aimed towards trolling cheaters and sending the footage back to the host. Made for Frediii on YouTube",
+    "language": "Java",
+    "date": "2023-01-16",
+    "visibility": "Commission"
+  },
+  {
+    "name": "RoR2WiiFitBoard",
+    "description": "A RoR2 Mod that adds a wii fit board that gives you movement speed",
+    "language": "C#",
+    "date": "2022-12-20",
+    "visibility": "Public"
+  },
+  {
+    "name": "RoR2Modding",
+    "description": "Risk of Rain 2 mods adding custom skins for Loader like Spider-Man and Spider-Gwen and Doctor Jack as a Huntress skin",
+    "language": "C#",
+    "date": "2022-12-20",
+    "visibility": "Public"
+  },
+  {
+    "name": "Alpha-Jump",
+    "description": "Project for the 2022-2023 FBLA Game Development Competition",
+    "language": "C#",
+    "date": "2022-12-14",
+    "visibility": "Public"
+  },
+  {
+    "name": "LongFormToShortForm",
+    "description": "A project to transform long form content (Youtube videos, TV Shows) into multiple 1 minute tiktok parts with another video in the background",
+    "language": "Python",
+    "date": "2022-12-04",
+    "visibility": "Private"
+  },
+  {
+    "name": "ChatGPTBot",
+    "description": "ChatGPT integration into a discord embed with a free account using scraping techniques bypassing the official API",
+    "language": "Python",
+    "date": "2022-12-08",
+    "visibility": "Private"
+  },
+  {
+    "name": "JsUnblockedHub",
+    "description": "My first attempt at a Unblocked Games Repo for school. Later replaced by JacksUnblockedHub",
+    "language": "HTML",
+    "date": "2022-11-07",
+    "visibility": "Public"
+  },
+  {
+    "name": "ChildrenBeatingMassacre",
+    "description": "A 3d wave fighting game where you start fighting newborn babies and as you progress the children get older",
+    "language": "C#",
+    "date": "2022-10-26",
+    "visibility": "Public"
+  },
+  {
+    "name": "AIOMacroFragBot",
+    "description": "A Hypixel Skyblock F7 FragBot publicly available to the AIOMacro Server",
+    "language": "GoLang",
+    "date": "2022-09-27",
+    "visibility": "Private"
+  },
+  {
+    "name": "ProjectHeisenberg",
+    "description": "A GoLang Project inspired by Project Copenheimer used to scan ips for existing minecraft servers",
+    "language": "GoLang",
+    "date": "2022-09-15",
+    "visibility": "Private"
+  },
+  {
+    "name": "BlackMod",
+    "description": "A Hypixel Skyblock cheating mod",
+    "language": "Java",
+    "date": "2022-08-30",
+    "visibility": "Commission"
+  },
+  {
+    "name": "AIOMDiscordBot",
+    "description": "Discord bot used to manage and run the AIOMacro server",
+    "language": "Python",
+    "date": "2022-07-4",
+    "visibility": "Private"
+  },
+  {
+    "name": "AIOMacroAuctionFlipper",
+    "description": "Backend code for the AIOMacro Premium Auction Flipper",
+    "language": "GoLang",
+    "date": "2022-06-21",
+    "visibility": "Public"
+  },
+  {
+    "name": "ShadyAddons",
+    "description": "Pull Request for ShadyAddons to add newer features",
+    "language": "Java",
+    "date": "2022-05-04",
+    "visibility": "Public"
+  },
+  {
+    "name": "AIOMacro",
+    "description": "An All-In-One Macro for Hypixel Skyblock. Includes numerous features for Quality of Life that do NOT abide by the Hypixel Rules.",
+    "language": "Java",
+    "date": "2022-01-21",
+    "visibility": "Public"
+  },
+  {
+    "name": "SkyblockFlipper",
+    "description": "A Hypixel Skyblock mod to notify the user of valuable flips or specific items listed to the Auction House",
+    "language": "Java",
+    "date": "2021-11-18",
+    "visibility": "Public"
+  },
+  {
+    "name": "JackTYM",
+    "description": "The ReadMe for my GitHub profile",
+    "language": "MarkDown",
+    "date": "2021-04-27",
+    "visibility": "Public"
+  },
+  {
+    "name": "JTools",
+    "description": "A simple text tool program made in Python",
+    "language": "Python",
+    "date": "2021-04-26",
+    "visibility": "Public"
+  },
+  {
+    "name": "ShoutTimer",
+    "description": "A Minecraft mod to countdown the time left for Hypixel's shout.",
+    "language": "Java",
+    "date": "2021-01-10",
+    "visibility": "Public"
   }
 ]
