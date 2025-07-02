@@ -80,8 +80,8 @@
     "stars": 1,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 8,
-    "visitors_unique": 6
+    "visitors_last_14_days": 5,
+    "visitors_unique": 5
   },
   {
     "name": "VoidRewrite",
@@ -167,7 +167,7 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 2,
+    "clones_last_14_days": 3,
     "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
@@ -205,8 +205,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 104,
-    "clones_unique": 63,
+    "clones_last_14_days": 110,
+    "clones_unique": 65,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -238,8 +238,8 @@
     "stars": 0,
     "clones_last_14_days": 6,
     "clones_unique": 4,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "Alpha-Jump",
@@ -274,8 +274,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -286,8 +286,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -326,8 +326,8 @@
     "date": "2022-06-21",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -353,8 +353,8 @@
     "stars": 35,
     "clones_last_14_days": 4,
     "clones_unique": 4,
-    "visitors_last_14_days": 686,
-    "visitors_unique": 268
+    "visitors_last_14_days": 676,
+    "visitors_unique": 266
   },
   {
     "name": "SkyblockFlipper",
@@ -365,8 +365,8 @@
     "stars": 1,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 18,
-    "visitors_unique": 4
+    "visitors_last_14_days": 21,
+    "visitors_unique": 5
   },
   {
     "name": "JackTYM",
@@ -387,8 +387,8 @@
     "date": "2021-04-26",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
