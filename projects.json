@@ -47,8 +47,8 @@
     "stars": 1,
     "clones_last_14_days": 6,
     "clones_unique": 6,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2
   },
   {
     "name": "MarketSharkCofl",
@@ -193,8 +193,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -205,8 +205,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 124,
-    "clones_unique": 74,
+    "clones_last_14_days": 129,
+    "clones_unique": 77,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -286,8 +286,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -351,10 +351,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
-    "visitors_last_14_days": 639,
-    "visitors_unique": 262
+    "clones_last_14_days": 7,
+    "clones_unique": 7,
+    "visitors_last_14_days": 634,
+    "visitors_unique": 259
   },
   {
     "name": "SkyblockFlipper",
@@ -375,8 +375,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
