@@ -80,7 +80,7 @@
     "stars": 1,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 60,
+    "visitors_last_14_days": 66,
     "visitors_unique": 8
   },
   {
@@ -205,8 +205,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 145,
-    "clones_unique": 80,
+    "clones_last_14_days": 152,
+    "clones_unique": 84,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -353,8 +353,8 @@
     "stars": 35,
     "clones_last_14_days": 8,
     "clones_unique": 8,
-    "visitors_last_14_days": 613,
-    "visitors_unique": 247
+    "visitors_last_14_days": 588,
+    "visitors_unique": 242
   },
   {
     "name": "SkyblockFlipper",
@@ -363,9 +363,9 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 19,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 9,
     "visitors_unique": 4
   },
   {
