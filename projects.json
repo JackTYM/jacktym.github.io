@@ -6,7 +6,7 @@
     "date": "2025-07-16",
     "visibility": "Private",
     "images": [
-        "/img/TwitterSpider/json.png"
+        "/img/projects/TwitterSpider/json.png"
     ]
   },
   {
@@ -21,9 +21,9 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/sha256-rs/thumbnail.png",
-        "/img/sha256-rs/k_chart.png",
-        "/img/sha256-rs/hello_world_hash.png"
+        "/img/projects/sha256-rs/thumbnail.png",
+        "/img/projects/sha256-rs/k_chart.png",
+        "/img/projects/sha256-rs/hello_world_hash.png"
     ]
   },
   {
@@ -38,8 +38,8 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/ClickHouse/thumbnail.png",
-        "/img/ClickHouse/auth_header.png"
+        "/img/projects/ClickHouse/thumbnail.png",
+        "/img/projects/ClickHouse/auth_header.png"
     ]
   },
   {
@@ -49,7 +49,7 @@
     "date": "2024-10-22",
     "visibility": "Commission",
     "images": [
-        "/img/ClashOfKingsServer/thumbnail.png"
+        "/img/projects/ClashOfKingsServer/thumbnail.png"
     ]
   },
   {
@@ -65,9 +65,9 @@
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
-        "/img/MarketSharkHeadless/thumbnail.png",
-        "/img/MarketSharkHeadless/hyperion.png",
-        "/img/MarketSharkHeadless/900m.png"
+        "/img/projects/MarketSharkHeadless/thumbnail.png",
+        "/img/projects/MarketSharkHeadless/hyperion.png",
+        "/img/projects/MarketSharkHeadless/900m.png"
     ]
   },
   {
@@ -77,8 +77,8 @@
     "date": "2024-07-21",
     "visibility": "Private",
     "images": [
-        "/img/MarketSharkCofl/thumbnail.png",
-        "/img/MarketSharkCofl/api.png"
+        "/img/projects/MarketSharkCofl/thumbnail.png",
+        "/img/projects/MarketSharkCofl/api.png"
     ]
   },
   {
@@ -94,10 +94,10 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/MarketSharkServer/thumbnail.png",
-        "/img/MarketSharkServer/active_clients.png",
-        "/img/MarketSharkServer/stats.png",
-        "/img/MarketSharkServer/auction_house.png"
+        "/img/projects/MarketSharkServer/thumbnail.png",
+        "/img/projects/MarketSharkServer/active_clients.png",
+        "/img/projects/MarketSharkServer/stats.png",
+        "/img/projects/MarketSharkServer/auction_house.png"
     ]
   },
   {
@@ -113,10 +113,10 @@
     "visitors_last_14_days": 71,
     "visitors_unique": 8,
     "images": [
-        "/img/MarketShark/thumbnail.png",
-        "/img/MarketShark/astraea.png",
-        "/img/MarketShark/profits.png",
-        "/img/MarketShark/purchase.png"
+        "/img/projects/MarketShark/thumbnail.png",
+        "/img/projects/MarketShark/astraea.png",
+        "/img/projects/MarketShark/profits.png",
+        "/img/projects/MarketShark/purchase.png"
     ]
   },
   {
@@ -126,9 +126,9 @@
     "date": "2024-05-13",
     "visibility": "Commission",
     "images": [
-        "/img/VoidRewrite/thumbnail.png",
-        "/img/VoidRewrite/autobuy.png",
-        "/img/VoidRewrite/webhook.png"
+        "/img/projects/VoidRewrite/thumbnail.png",
+        "/img/projects/VoidRewrite/autobuy.png",
+        "/img/projects/VoidRewrite/webhook.png"
     ]
   },
   {
@@ -138,7 +138,7 @@
     "date": "2024-03-12",
     "visibility": "Private",
     "images": [
-        "/img/MinecraftDeletedNameAlerts/thumbnail.png"
+        "/img/projects/MinecraftDeletedNameAlerts/thumbnail.png"
     ]
   },
   {
@@ -148,7 +148,7 @@
     "date": "2024-01-14",
     "visibility": "Commission",
     "images": [
-        "/img/LethalCompanySirroco/thumbnail.png"
+        "/img/projects/LethalCompanySirroco/thumbnail.png"
     ]
   },
   {
@@ -163,13 +163,13 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/SmartSchooling/thumbnail.png",
-        "/img/SmartSchooling/home.png",
-        "/img/SmartSchooling/academic_experience.png",
-        "/img/SmartSchooling/extracurriculars.png",
-        "/img/SmartSchooling/community_service.png",
-        "/img/SmartSchooling/career_experience.png",
-        "/img/SmartSchooling/export.png"
+        "/img/projects/SmartSchooling/thumbnail.png",
+        "/img/projects/SmartSchooling/home.png",
+        "/img/projects/SmartSchooling/academic_experience.png",
+        "/img/projects/SmartSchooling/extracurriculars.png",
+        "/img/projects/SmartSchooling/community_service.png",
+        "/img/projects/SmartSchooling/career_experience.png",
+        "/img/projects/SmartSchooling/export.png"
     ]
   },
   {
@@ -184,7 +184,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/DemoFPS/thumbnail.png"
+        "/img/projects/DemoFPS/thumbnail.png"
     ]
   },
   {
@@ -199,8 +199,8 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/FBLA23-24/edward_miller.png",
-        "/img/FBLA23-24/key.png"
+        "/img/projects/FBLA23-24/edward_miller.png",
+        "/img/projects/FBLA23-24/key.png"
     ]
   },
   {
@@ -210,8 +210,8 @@
     "date": "2023-07-14",
     "visibility": "Commission",
     "images": [
-        "/img/AccountSourcing/img.png",
-        "/img/AccountSourcing/profiles.png"
+        "/img/projects/AccountSourcing/img.png",
+        "/img/projects/AccountSourcing/profiles.png"
     ]
   },
   {
@@ -221,11 +221,11 @@
     "date": "2023-06-18",
     "visibility": "Private",
     "images": [
-        "/img/HorrorGameJam/thumbnail.png",
-        "/img/HorrorGameJam/map.png",
-        "/img/HorrorGameJam/player.png",
-        "/img/HorrorGameJam/odds.png",
-        "/img/HorrorGameJam/traits.png"
+        "/img/projects/HorrorGameJam/thumbnail.png",
+        "/img/projects/HorrorGameJam/map.png",
+        "/img/projects/HorrorGameJam/player.png",
+        "/img/projects/HorrorGameJam/odds.png",
+        "/img/projects/HorrorGameJam/traits.png"
     ]
   },
   {
@@ -235,10 +235,10 @@
     "date": "2023-04-12",
     "visibility": "Commission",
     "images": [
-        "/img/AccountingFirm/thumbnail.png",
-        "/img/AccountingFirm/lowball_calculator.png",
-        "/img/AccountingFirm/profile.png",
-        "/img/AccountingFirm/server.png"
+        "/img/projects/AccountingFirm/thumbnail.png",
+        "/img/projects/AccountingFirm/lowball_calculator.png",
+        "/img/projects/AccountingFirm/profile.png",
+        "/img/projects/AccountingFirm/server.png"
     ]
   },
   {
@@ -253,9 +253,9 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/hypixel-botnet-server/thumbnail.png",
-        "/img/hypixel-botnet-server/ender_spleef.png",
-        "/img/hypixel-botnet-server/throw_out.png"
+        "/img/projects/hypixel-botnet-server/thumbnail.png",
+        "/img/projects/hypixel-botnet-server/ender_spleef.png",
+        "/img/projects/hypixel-botnet-server/throw_out.png"
     ]
   },
   {
@@ -270,7 +270,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/jacktym.github.io/page.png"
+        "/img/projects/jacktym.github.io/page.png"
     ]
   },
   {
@@ -280,8 +280,8 @@
     "date": "2023-01-16",
     "visibility": "Commission",
     "images": [
-        "/img/YGTClient/thumbnail.png",
-        "/img/YGTClient/replaymod.png"
+        "/img/projects/YGTClient/thumbnail.png",
+        "/img/projects/YGTClient/replaymod.png"
     ]
   },
   {
@@ -296,7 +296,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/RoR2WiiFitBoard/board.png"
+        "/img/projects/RoR2WiiFitBoard/board.png"
     ]
   },
   {
@@ -311,9 +311,9 @@
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
-        "/img/RoR2Modding/spiderman_loader.png",
-        "/img/RoR2Modding/spidergwen_loader.png",
-        "/img/RoR2Modding/doctor_jack.png"
+        "/img/projects/RoR2Modding/spiderman_loader.png",
+        "/img/projects/RoR2Modding/spidergwen_loader.png",
+        "/img/projects/RoR2Modding/doctor_jack.png"
     ]
   },
   {
@@ -328,10 +328,10 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/Alpha-Jump/menu.png",
-        "/img/Alpha-Jump/level_one.png",
-        "/img/Alpha-Jump/level_two.png",
-        "/img/Alpha-Jump/level_three.png"
+        "/img/projects/Alpha-Jump/menu.png",
+        "/img/projects/Alpha-Jump/level_one.png",
+        "/img/projects/Alpha-Jump/level_two.png",
+        "/img/projects/Alpha-Jump/level_three.png"
     ]
   },
   {
@@ -341,8 +341,8 @@
     "date": "2022-12-04",
     "visibility": "Private",
     "images": [
-        "/img/LongFormToShortForm/thumbnail.png",
-        "/img/LongFormToShortForm/tiktok.png"
+        "/img/projects/LongFormToShortForm/thumbnail.png",
+        "/img/projects/LongFormToShortForm/tiktok.png"
     ]
   },
   {
@@ -352,7 +352,7 @@
     "date": "2022-12-08",
     "visibility": "Private",
     "images": [
-        "/img/ChatGPTBot/img.png"
+        "/img/projects/ChatGPTBot/img.png"
     ]
   },
   {
@@ -367,7 +367,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/JsUnblockedHub/page.png"
+        "/img/projects/JsUnblockedHub/page.png"
     ]
   },
   {
@@ -382,7 +382,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/ChildrenBeatingMassacre/thumbnail.png"
+        "/img/projects/ChildrenBeatingMassacre/thumbnail.png"
     ]
   },
   {
@@ -392,7 +392,7 @@
     "date": "2022-09-27",
     "visibility": "Private",
     "images": [
-        "/img/AIOMacroFragBot/thumbnail.png"
+        "/img/projects/AIOMacroFragBot/thumbnail.png"
     ]
   },
   {
@@ -402,8 +402,8 @@
     "date": "2022-09-15",
     "visibility": "Private",
     "images": [
-        "/img/ProjectHeisenberg/scanner.png",
-        "/img/ProjectHeisenberg/servers.png"
+        "/img/projects/ProjectHeisenberg/scanner.png",
+        "/img/projects/ProjectHeisenberg/servers.png"
     ]
   },
   {
@@ -413,7 +413,7 @@
     "date": "2022-08-30",
     "visibility": "Commission",
     "images": [
-        "/img/BlackMod/thumbnail.png"
+        "/img/projects/BlackMod/thumbnail.png"
     ]
   },
   {
@@ -423,9 +423,9 @@
     "date": "2022-07-4",
     "visibility": "Private",
     "images": [
-        "/img/AIOMDiscordBot/thumbnail.png",
-        "/img/AIOMDiscordBot/config.png",
-        "/img/AIOMDiscordBot/ssid.png"
+        "/img/projects/AIOMDiscordBot/thumbnail.png",
+        "/img/projects/AIOMDiscordBot/config.png",
+        "/img/projects/AIOMDiscordBot/ssid.png"
     ]
   },
   {
@@ -440,8 +440,8 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/AIOMacroAuctionFlipper/thumbnail.png",
-        "/img/AIOMacroAuctionFlipper/flip.png"
+        "/img/projects/AIOMacroAuctionFlipper/thumbnail.png",
+        "/img/projects/AIOMacroAuctionFlipper/flip.png"
     ]
   },  
   {
@@ -457,7 +457,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/JacksUnblockedHub/page.png"
+        "/img/projects/JacksUnblockedHub/page.png"
     ]
   },
   {
@@ -472,8 +472,8 @@
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
-        "/img/ShadyAddons/thumbnail.png",
-        "/img/ShadyAddons/minion_items.png"
+        "/img/projects/ShadyAddons/thumbnail.png",
+        "/img/projects/ShadyAddons/minion_items.png"
     ]
   },
   {
@@ -488,7 +488,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/THMCyberSecurityNotes/page.png"
+        "/img/projects/THMCyberSecurityNotes/page.png"
     ]
   },
   {
@@ -504,9 +504,9 @@
     "visitors_last_14_days": 572,
     "visitors_unique": 253,
     "images": [
-        "/img/AIOMacro/thumbnail.png",
-        "/img/AIOMacro/banner.png",
-        "/img/AIOMacro/config.png"
+        "/img/projects/AIOMacro/thumbnail.png",
+        "/img/projects/AIOMacro/banner.png",
+        "/img/projects/AIOMacro/config.png"
     ]
   },
   {
@@ -521,7 +521,7 @@
     "visitors_last_14_days": 10,
     "visitors_unique": 5,
     "images": [
-        "/img/SkyblockFlipper/thumbnail.png"
+        "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
   },
   {
@@ -536,7 +536,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/JackTYM/thumbnail.png"
+        "/img/projects/JackTYM/thumbnail.png"
     ]
   },
   {
@@ -551,7 +551,7 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/JTools/thumbnail.png"
+        "/img/projects/JTools/thumbnail.png"
     ]
   },
   {
@@ -566,7 +566,7 @@
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
-        "/img/ShoutTimer/thumbnail.png"
+        "/img/projects/ShoutTimer/thumbnail.png"
     ]
   }
 ]
