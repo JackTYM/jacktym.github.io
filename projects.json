@@ -45,8 +45,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
   },
@@ -67,8 +67,8 @@
     "stars": 1,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "MarketShark",
@@ -80,8 +80,8 @@
     "stars": 1,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 72,
-    "visitors_unique": 9
+    "visitors_last_14_days": 71,
+    "visitors_unique": 8
   },
   {
     "name": "VoidRewrite",
@@ -205,8 +205,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 182,
-    "clones_unique": 97,
+    "clones_last_14_days": 187,
+    "clones_unique": 99,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -353,8 +353,8 @@
     "stars": 35,
     "clones_last_14_days": 8,
     "clones_unique": 8,
-    "visitors_last_14_days": 559,
-    "visitors_unique": 247
+    "visitors_last_14_days": 572,
+    "visitors_unique": 253
   },
   {
     "name": "SkyblockFlipper",
@@ -401,7 +401,7 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   }
 ]
