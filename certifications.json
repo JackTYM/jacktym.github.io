@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Autodesk Inventor Certified User",
+    "issuer": "Credly",
+    "date": "2024-05-02",
+    "description": "Autodesk Inventor Certified User badge confirms students have developed the digital design skills needed to effectively use Autodesk Inventor software. Knowledge demonstrated includes creating, modifying, formatting, and sharing 2D sketches, creating parts, viewing, and animating assemblies, creating presentations and drawings, etc.",
+    "images": [
+      "/img/Certifications/autodesk_inventor.png"
+    ]
+  },
+  {
+    "name": "IT Specialist - Java",
+    "issuer": "Credly",
+    "date": "2024-04-04",
+    "description": "Earners of this badge demonstrate that they can recognize, write, and debug Java code that will logically solve a problem.",
+    "images": [
+      "/img/Certifications/it_specialist.png"
+    ]
+  }
+]
