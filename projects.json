@@ -44,7 +44,10 @@
     "description": "An updated version of the leaked Clash of Kings mobile PHP backend",
     "language": "PHP",
     "date": "2024-10-22",
-    "visibility": "Commission"
+    "visibility": "Commission",
+    "images": [
+        "/img/ClashOfKingsServer/thumbnail.png"
+    ]
   },
   {
     "name": "MarketSharkHeadless",
