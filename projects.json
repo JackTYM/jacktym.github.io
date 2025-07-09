@@ -199,7 +199,8 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/FBLA23-24/img.png"
+        "/img/FBLA23-24/edward_miller.png",
+        "/img/FBLA23-24/key.png"
     ]
   },
   {
@@ -236,6 +237,7 @@
     "images": [
         "/img/AccountingFirm/thumbnail.png",
         "/img/AccountingFirm/lowball_calculator.png",
+        "/img/AccountingFirm/profile.png",
         "/img/AccountingFirm/server.png"
     ]
   },
@@ -350,7 +352,7 @@
     "date": "2022-12-08",
     "visibility": "Private",
     "images": [
-        "/img/ChatGPTBot/thumbnail.png"
+        "/img/ChatGPTBot/img.png"
     ]
   },
   {
@@ -438,7 +440,8 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/AIOMacroAuctionFlipper/thumbnail.png"
+        "/img/AIOMacroAuctionFlipper/thumbnail.png",
+        "/img/AIOMacroAuctionFlipper/flip.png"
     ]
   },  
   {
