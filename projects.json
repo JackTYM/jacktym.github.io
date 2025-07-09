@@ -4,7 +4,7 @@
     "description": "A twitter scraper designed to spider off of a user's following list and categorize by type using AI",
     "language": "Python",
     "date": "2025-07-16",
-    "visibility": "Private"
+    "visibility": "Private",
     "images": [
         "/img/TwitterSpider/thumbnail.png"
     ]
