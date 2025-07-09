@@ -6,7 +6,7 @@
     "date": "2025-07-16",
     "visibility": "Private",
     "images": [
-        "/img/TwitterSpider/thumbnail.png"
+        "/img/TwitterSpider/json.png"
     ]
   },
   {
@@ -21,7 +21,9 @@
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
-        "/img/sha256-rs/thumbnail.png"
+        "/img/sha256-rs/thumbnail.png",
+        "/img/sha256-rs/k_chart.png",
+        "/img/sha256-rs/hello_world_hash.png"
     ]
   },
   {
