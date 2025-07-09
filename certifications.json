@@ -4,35 +4,27 @@
     "issuer": "CollegeBoard",
     "date": "2025-07-09",
     "description": "",
-    "images": [
-      "/img/certifications/ap_score_5.png"
-    ]
+    "thumbnail": "/img/certifications/ap_score_5.png"
   },
   {
     "name": "Score of 5 on AP Computer Science A",
     "issuer": "CollegeBoard",
     "date": "2024-07-08",
     "description": "",
-    "images": [
-      "/img/certifications/ap_score_5.png"
-    ]
+    "thumbnail": "/img/certifications/ap_score_5.png"
   },
   {
     "name": "Autodesk Inventor Certified User",
     "issuer": "Credly",
     "date": "2024-05-02",
     "description": "Autodesk Inventor Certified User badge confirms students have developed the digital design skills needed to effectively use Autodesk Inventor software. Knowledge demonstrated includes creating, modifying, formatting, and sharing 2D sketches, creating parts, viewing, and animating assemblies, creating presentations and drawings, etc.",
-    "images": [
-      "/img/certifications/autodesk_inventor.png"
-    ]
+    "thumbnail": "/img/certifications/autodesk_inventor.png"
   },
   {
     "name": "IT Specialist - Java",
     "issuer": "Credly",
     "date": "2024-04-04",
     "description": "Earners of this badge demonstrate that they can recognize, write, and debug Java code that will logically solve a problem.",
-    "images": [
-      "/img/certifications/it_specialist.png"
-    ]
+    "thumbnail": "/img/certifications/it_specialist.png"
   }
 ]
