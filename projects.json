@@ -5,6 +5,9 @@
     "language": "Python",
     "date": "2025-07-16",
     "visibility": "Private"
+    "images": [
+        "/img/TwitterSpider/thumbnail.png"
+    ]
   },
   {
     "name": "sha256-rs",
@@ -16,7 +19,10 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/sha256-rs/thumbnail.png"
+    ]
   },
   {
     "name": "ClickHouse",
@@ -28,7 +34,10 @@
     "clones_last_14_days": 3,
     "clones_unique": 1,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/ClickHouse/thumbnail.png"
+    ]
   },
   {
     "name": "ClashOfKingsServer",
@@ -48,14 +57,20 @@
     "clones_last_14_days": 5,
     "clones_unique": 5,
     "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "visitors_unique": 1,
+    "images": [
+        "/img/MarketSharkHeadless/thumbnail.png"
+    ]
   },
   {
     "name": "MarketSharkCofl",
     "description": "An implementation of the open source Cofl backend automatically configured in docker compose",
     "language": "Java",
     "date": "2024-07-21",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/MarketSharkCofl/thumbnail.png"
+    ]
   },
   {
     "name": "MarketSharkServer",
@@ -68,7 +83,10 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/MarketSharkServer/thumbnail.png"
+    ]
   },
   {
     "name": "MarketShark",
@@ -81,21 +99,30 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 71,
-    "visitors_unique": 8
+    "visitors_unique": 8,
+    "images": [
+        "/img/MarketShark/thumbnail.png"
+    ]
   },
   {
     "name": "VoidRewrite",
     "description": "A rewrite of the Hypixel Skyblock Cofl Flipper mod 'Void' with skips removed and BAF integration",
     "language": "Java",
     "date": "2024-05-13",
-    "visibility": "Commission"
+    "visibility": "Commission",
+    "images": [
+        "/img/VoidRewrite/thumbnail.png"
+    ]
   },
   {
     "name": "MinecraftDeletedNameAlerts",
     "description": "A program to call the Mojang API to detect account deletions and allow users to snipe them. Used both proxies and IPV6 Subnetting in order to bypass Mojang Rate Limits",
     "language": "GoLang",
     "date": "2024-03-12",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/MinecraftDeletedNameAlerts/thumbnail.png"
+    ]
   },
   {
     "name": "THMCyberSecurityNotes",
@@ -107,14 +134,20 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/THMCyberSecurityNotes/thumbnail.png"
+    ]
   },
   {
     "name": "LethalCompanySirroco",
     "description": "An example mod to test the SDK for adding maps to Lethal Company via BepInEx",
     "language": "C#",
     "date": "2024-01-14",
-    "visibility": "Commission"
+    "visibility": "Commission",
+    "images": [
+        "/img/LethalCompanySirroco/thumbnail.png"
+    ]
   },
   {
     "name": "SmartSchooling",
@@ -126,7 +159,10 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/SmartSchooling/thumbnail.png"
+    ]
   },
   {
     "name": "DemoFPS",
@@ -138,7 +174,10 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/DemoFPS/thumbnail.png"
+    ]
   },
   {
     "name": "FBLA23-24",
@@ -150,14 +189,20 @@
     "clones_last_14_days": 1,
     "clones_unique": 1,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/FBLA23-24/thumbnail.png"
+    ]
   },
   {
     "name": "HorrorGameJam",
     "description": "An unfinished horror game for an Itch.Io game jam contest",
     "language": "C#",
     "date": "2023-06-18",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/HorrorGameJam/thumbnail.png"
+    ]
   },
   {
     "name": "JacksUnblockedHub",
@@ -170,21 +215,30 @@
     "clones_last_14_days": 18,
     "clones_unique": 7,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/JacksUnblockedHub/thumbnail.png"
+    ]
   },
   {
     "name": "AccountSourcing",
     "description": "Backend for Accounting Firm's feature 'Account Sourcing' which was designed to cache millions of skyblock player's stats to reach out and buy their accounts",
     "language": "NodeJS",
     "date": "2023-07-14",
-    "visibility": "Commission"
+    "visibility": "Commission",
+    "images": [
+        "/img/AccountSourcing/thumbnail.png"
+    ]
   },
   {
     "name": "AccountingFirm",
     "description": "Backend for Discord bot and website for the Accounting Firm Hypixel Skyblock account sale platform",
     "language": "NodeJS",
     "date": "2023-04-12",
-    "visibility": "Commission"
+    "visibility": "Commission",
+    "images": [
+        "/img/AccountingFIrm/thumbnail.png"
+    ]
   },
   {
     "name": "hypixel-botnet-server",
@@ -196,7 +250,10 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/hypixel-botnet-server/thumbnail.png"
+    ]
   },
   {
     "name": "jacktym.github.io",
@@ -208,14 +265,20 @@
     "clones_last_14_days": 187,
     "clones_unique": 99,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/jacktym.github.io/thumbnail.png"
+    ]
   },
   {
     "name": "YGTClient",
     "description": "'You Got Trolled Client' a client aimed towards trolling cheaters and sending the footage back to the host. Made for Frediii on YouTube",
     "language": "Java",
     "date": "2023-01-16",
-    "visibility": "Commission"
+    "visibility": "Commission",
+    "images": [
+        "/img/YGTClient/thumbnail.png"
+    ]
   },
   {
     "name": "RoR2WiiFitBoard",
@@ -227,7 +290,10 @@
     "clones_last_14_days": 1,
     "clones_unique": 1,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/RoR2WiiFitBoard/thumbnail.png"
+    ]
   },
   {
     "name": "RoR2Modding",
@@ -239,7 +305,10 @@
     "clones_last_14_days": 4,
     "clones_unique": 3,
     "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "visitors_unique": 1,
+    "images": [
+        "/img/RoR2Modding/thumbnail.png"
+    ]
   },
   {
     "name": "Alpha-Jump",
@@ -251,21 +320,30 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/Alpha-Jump/thumbnail.png"
+    ]
   },
   {
     "name": "LongFormToShortForm",
     "description": "A project to transform long form content (Youtube videos, TV Shows) into multiple 1 minute tiktok parts with another video in the background",
     "language": "Python",
     "date": "2022-12-04",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/LongFormToShortForm/thumbnail.png"
+    ]
   },
   {
     "name": "ChatGPTBot",
     "description": "ChatGPT integration into a discord embed with a free account using scraping techniques bypassing the official API",
     "language": "Python",
     "date": "2022-12-08",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/ChatGPTBot/thumbnail.png"
+    ]
   },
   {
     "name": "JsUnblockedHub",
@@ -277,7 +355,10 @@
     "clones_last_14_days": 2,
     "clones_unique": 2,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/JsUnblockedHub/thumbnail.png"
+    ]
   },
   {
     "name": "ChildrenBeatingMassacre",
@@ -289,35 +370,50 @@
     "clones_last_14_days": 2,
     "clones_unique": 2,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/ChildrenBeatingMassacre/thumbnail.png"
+    ]
   },
   {
     "name": "AIOMacroFragBot",
     "description": "A Hypixel Skyblock F7 FragBot publicly available to the AIOMacro Server",
     "language": "GoLang",
     "date": "2022-09-27",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/AIOMacroFragBot/thumbnail.png"
+    ]
   },
   {
     "name": "ProjectHeisenberg",
     "description": "A GoLang Project inspired by Project Copenheimer used to scan ips for existing minecraft servers",
     "language": "GoLang",
     "date": "2022-09-15",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/ProjectHeisenberg/thumbnail.png"
+    ]
   },
   {
     "name": "BlackMod",
     "description": "A Hypixel Skyblock cheating mod",
     "language": "Java",
     "date": "2022-08-30",
-    "visibility": "Commission"
+    "visibility": "Commission",
+    "images": [
+        "/img/BlackMod/thumbnail.png"
+    ]
   },
   {
     "name": "AIOMDiscordBot",
     "description": "Discord bot used to manage and run the AIOMacro server",
     "language": "Python",
     "date": "2022-07-4",
-    "visibility": "Private"
+    "visibility": "Private",
+    "images": [
+        "/img/AIOMDiscordBot/thumbnail.png"
+    ]
   },
   {
     "name": "AIOMacroAuctionFlipper",
@@ -329,7 +425,10 @@
     "clones_last_14_days": 3,
     "clones_unique": 3,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/AIOMacroAuctionFlipper/thumbnail.png"
+    ]
   },
   {
     "name": "ShadyAddons",
@@ -341,7 +440,10 @@
     "clones_last_14_days": 0,
     "clones_unique": 0,
     "visitors_last_14_days": 2,
-    "visitors_unique": 1
+    "visitors_unique": 1,
+    "images": [
+        "/img/ShadyAddons/thumbnail.png"
+    ]
   },
   {
     "name": "AIOMacro",
@@ -354,7 +456,10 @@
     "clones_last_14_days": 8,
     "clones_unique": 8,
     "visitors_last_14_days": 572,
-    "visitors_unique": 253
+    "visitors_unique": 253,
+    "images": [
+        "/img/AIOMacro/thumbnail.png"
+    ]
   },
   {
     "name": "SkyblockFlipper",
@@ -366,7 +471,10 @@
     "clones_last_14_days": 3,
     "clones_unique": 3,
     "visitors_last_14_days": 10,
-    "visitors_unique": 5
+    "visitors_unique": 5,
+    "images": [
+        "/img/SkyblockFlipper/thumbnail.png"
+    ]
   },
   {
     "name": "JackTYM",
@@ -378,7 +486,10 @@
     "clones_last_14_days": 1,
     "clones_unique": 1,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/JackTYM/thumbnail.png"
+    ]
   },
   {
     "name": "JTools",
@@ -390,7 +501,10 @@
     "clones_last_14_days": 4,
     "clones_unique": 4,
     "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_unique": 0,
+    "images": [
+        "/img/JTools/thumbnail.png"
+    ]
   },
   {
     "name": "ShoutTimer",
@@ -402,6 +516,9 @@
     "clones_last_14_days": 2,
     "clones_unique": 2,
     "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "visitors_unique": 1,
+    "images": [
+        "/img/ShoutTimer/thumbnail.png"
+    ]
   }
 ]
