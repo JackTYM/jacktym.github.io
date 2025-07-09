@@ -1,5 +1,15 @@
 [
   {
+    "name": "TwitterSpider",
+    "description": "A twitter scraper designed to spider off of a user's following list and categorize by type using AI",
+    "language": "Python",
+    "date": "2025-07-16",
+    "visibility": "Private",
+    "images": [
+        "/img/TwitterSpider/thumbnail.png"
+    ]
+  },
+  {
     "name": "sha256-rs",
     "description": "A rust implementation of the NSA's SHA256 Protocol with research and math documents",
     "language": "Rust",
@@ -12,16 +22,6 @@
     "visitors_unique": 0,
     "images": [
         "/img/sha256-rs/thumbnail.png"
-    ]
-  },
-  {
-    "name": "TwitterSpider",
-    "description": "A twitter scraper designed to spider off of a user's following list and categorize by type using AI",
-    "language": "Python",
-    "date": "2025-07-16",
-    "visibility": "Private",
-    "images": [
-        "/img/TwitterSpider/thumbnail.png"
     ]
   },
   {
