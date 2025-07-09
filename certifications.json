@@ -1,5 +1,23 @@
 [
   {
+    "name": "Score of 5 on AP Precalculus",
+    "issuer": "CollegeBoard",
+    "date": "2025-07-09",
+    "description": "",
+    "images": [
+      "/img/certifications/ap_score_5.png"
+    ]
+  },
+  {
+    "name": "Score of 5 on AP Computer Science A",
+    "issuer": "CollegeBoard",
+    "date": "2024-07-08",
+    "description": "",
+    "images": [
+      "/img/certifications/ap_score_5.png"
+    ]
+  },
+  {
     "name": "Autodesk Inventor Certified User",
     "issuer": "Credly",
     "date": "2024-05-02",
