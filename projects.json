@@ -18,8 +18,8 @@
     "stars": 0,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 10,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/sha256-rs/thumbnail.png",
       "/img/projects/sha256-rs/k_chart.png",
@@ -110,8 +110,8 @@
     "stars": 1,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 65,
-    "visitors_unique": 6,
+    "visitors_last_14_days": 16,
+    "visitors_unique": 5,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 197,
-    "clones_unique": 93,
+    "clones_last_14_days": 198,
+    "clones_unique": 91,
     "visitors_last_14_days": 5,
     "visitors_unique": 2,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 35,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 696,
-    "visitors_unique": 301,
+    "visitors_last_14_days": 714,
+    "visitors_unique": 306,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
