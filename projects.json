@@ -60,8 +60,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
+    "clones_last_14_days": 42,
+    "clones_unique": 8,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 198,
-    "clones_unique": 90,
+    "clones_last_14_days": 195,
+    "clones_unique": 86,
     "visitors_last_14_days": 5,
     "visitors_unique": 2,
     "images": [
@@ -452,8 +452,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 18,
-    "clones_unique": 8,
+    "clones_last_14_days": 23,
+    "clones_unique": 9,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 35,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 764,
-    "visitors_unique": 316,
+    "visitors_last_14_days": 763,
+    "visitors_unique": 315,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
