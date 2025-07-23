@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 192,
-    "clones_unique": 81,
+    "clones_last_14_days": 191,
+    "clones_unique": 80,
     "visitors_last_14_days": 5,
     "visitors_unique": 2,
     "images": [
@@ -323,8 +323,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 11,
-    "clones_unique": 2,
+    "clones_last_14_days": 12,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 35,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 750,
-    "visitors_unique": 304,
+    "visitors_last_14_days": 745,
+    "visitors_unique": 303,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -563,8 +563,8 @@
     "stars": 0,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/ShoutTimer/thumbnail.png"
     ]
