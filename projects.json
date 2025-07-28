@@ -33,8 +33,8 @@
     "date": "2024-11-22",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -62,8 +62,8 @@
     "stars": 2,
     "clones_last_14_days": 37,
     "clones_unique": 3,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 13,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -265,7 +265,7 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 137,
+    "clones_last_14_days": 136,
     "clones_unique": 54,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
@@ -306,8 +306,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 36,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
-    "visitors_last_14_days": 683,
-    "visitors_unique": 283,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
+    "visitors_last_14_days": 704,
+    "visitors_unique": 294,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
