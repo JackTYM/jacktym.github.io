@@ -18,8 +18,8 @@
     "stars": 0,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 10,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/sha256-rs/thumbnail.png",
       "/img/projects/sha256-rs/k_chart.png",
@@ -501,8 +501,8 @@
     "stars": 36,
     "clones_last_14_days": 8,
     "clones_unique": 8,
-    "visitors_last_14_days": 707,
-    "visitors_unique": 295,
+    "visitors_last_14_days": 694,
+    "visitors_unique": 284,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
