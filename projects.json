@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 151,
-    "clones_unique": 46,
+    "clones_last_14_days": 150,
+    "clones_unique": 44,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -499,9 +499,9 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 36,
-    "clones_last_14_days": 16,
-    "clones_unique": 16,
-    "visitors_last_14_days": 663,
+    "clones_last_14_days": 18,
+    "clones_unique": 18,
+    "visitors_last_14_days": 672,
     "visitors_unique": 262,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
