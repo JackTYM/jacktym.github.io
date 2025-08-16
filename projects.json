@@ -62,8 +62,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -110,7 +110,7 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 6,
+    "visitors_last_14_days": 11,
     "visitors_unique": 2,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 139,
-    "clones_unique": 41,
+    "clones_last_14_days": 134,
+    "clones_unique": 39,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -308,8 +308,8 @@
     "stars": 0,
     "clones_last_14_days": 4,
     "clones_unique": 4,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/RoR2Modding/spiderman_loader.png",
       "/img/projects/RoR2Modding/spidergwen_loader.png",
@@ -501,7 +501,7 @@
     "stars": 36,
     "clones_last_14_days": 17,
     "clones_unique": 17,
-    "visitors_last_14_days": 681,
+    "visitors_last_14_days": 699,
     "visitors_unique": 259,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
