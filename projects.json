@@ -265,7 +265,7 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 125,
+    "clones_last_14_days": 121,
     "clones_unique": 37,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
@@ -501,8 +501,8 @@
     "stars": 36,
     "clones_last_14_days": 16,
     "clones_unique": 16,
-    "visitors_last_14_days": 649,
-    "visitors_unique": 256,
+    "visitors_last_14_days": 654,
+    "visitors_unique": 254,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,7 +518,7 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 9,
+    "visitors_last_14_days": 11,
     "visitors_unique": 4,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
