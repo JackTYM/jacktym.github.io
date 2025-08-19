@@ -62,8 +62,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 14,
-    "visitors_unique": 5,
+    "visitors_last_14_days": 15,
+    "visitors_unique": 6,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -181,8 +181,8 @@
     "stars": 0,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 109,
-    "clones_unique": 35,
+    "clones_last_14_days": 102,
+    "clones_unique": 33,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 36,
     "clones_last_14_days": 16,
     "clones_unique": 16,
-    "visitors_last_14_days": 609,
-    "visitors_unique": 229,
+    "visitors_last_14_days": 589,
+    "visitors_unique": 228,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
