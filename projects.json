@@ -196,8 +196,8 @@
     "stars": 0,
     "clones_last_14_days": 3,
     "clones_unique": 2,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/FBLA23-24/edward_miller.png",
       "/img/projects/FBLA23-24/key.png"
@@ -266,7 +266,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 147,
-    "clones_unique": 47,
+    "clones_unique": 48,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
@@ -435,8 +435,8 @@
     "date": "2022-06-21",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -452,8 +452,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 36,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 514,
-    "visitors_unique": 229,
+    "visitors_last_14_days": 535,
+    "visitors_unique": 227,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
