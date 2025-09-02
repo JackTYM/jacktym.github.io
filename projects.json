@@ -60,10 +60,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -181,8 +181,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -194,8 +194,8 @@
     "date": "2023-08-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -265,7 +265,7 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 140,
+    "clones_last_14_days": 138,
     "clones_unique": 42,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
@@ -308,8 +308,8 @@
     "stars": 0,
     "clones_last_14_days": 4,
     "clones_unique": 4,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/RoR2Modding/spiderman_loader.png",
       "/img/projects/RoR2Modding/spidergwen_loader.png",
@@ -323,8 +323,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 8,
-    "clones_unique": 6,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -362,8 +362,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 3,
+    "clones_last_14_days": 3,
+    "clones_unique": 2,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -377,8 +377,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -502,7 +502,7 @@
     "clones_last_14_days": 1,
     "clones_unique": 1,
     "visitors_last_14_days": 502,
-    "visitors_unique": 233,
+    "visitors_unique": 232,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
