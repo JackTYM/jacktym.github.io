@@ -181,8 +181,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -266,7 +266,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 137,
-    "clones_unique": 42,
+    "clones_unique": 41,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 36,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 504,
-    "visitors_unique": 227,
+    "visitors_last_14_days": 538,
+    "visitors_unique": 238,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
