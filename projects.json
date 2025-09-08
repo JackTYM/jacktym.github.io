@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 138,
-    "clones_unique": 42,
+    "clones_last_14_days": 137,
+    "clones_unique": 41,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -379,8 +379,8 @@
     "stars": 5,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/ChildrenBeatingMassacre/thumbnail.png"
     ]
@@ -483,8 +483,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -499,9 +499,9 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 36,
-    "clones_last_14_days": 4,
-    "clones_unique": 3,
-    "visitors_last_14_days": 498,
+    "clones_last_14_days": 3,
+    "clones_unique": 2,
+    "visitors_last_14_days": 501,
     "visitors_unique": 208,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
