@@ -377,8 +377,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -499,9 +499,9 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 36,
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
-    "visitors_last_14_days": 489,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
+    "visitors_last_14_days": 486,
     "visitors_unique": 206,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
