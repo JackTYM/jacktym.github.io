@@ -60,7 +60,7 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 4,
+    "clones_last_14_days": 15,
     "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
@@ -91,8 +91,8 @@
     "stars": 1,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -108,8 +108,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 6,
     "visitors_unique": 4,
     "images": [
@@ -158,8 +158,8 @@
     "date": "2023-12-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -179,8 +179,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 4,
     "visitors_unique": 2,
     "images": [
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 143,
-    "clones_unique": 48,
+    "clones_last_14_days": 144,
+    "clones_unique": 51,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -364,8 +364,8 @@
     "stars": 0,
     "clones_last_14_days": 4,
     "clones_unique": 4,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/JsUnblockedHub/page.png"
     ]
@@ -483,8 +483,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 35,
     "clones_last_14_days": 6,
     "clones_unique": 5,
-    "visitors_last_14_days": 441,
-    "visitors_unique": 189,
+    "visitors_last_14_days": 473,
+    "visitors_unique": 191,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
