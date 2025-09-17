@@ -110,8 +110,8 @@
     "stars": 2,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 7,
-    "visitors_unique": 4,
+    "visitors_last_14_days": 8,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -266,7 +266,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 139,
-    "clones_unique": 52,
+    "clones_unique": 51,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 35,
     "clones_last_14_days": 7,
     "clones_unique": 6,
-    "visitors_last_14_days": 474,
-    "visitors_unique": 196,
+    "visitors_last_14_days": 470,
+    "visitors_unique": 192,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
