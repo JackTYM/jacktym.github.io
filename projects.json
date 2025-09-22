@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 141,
-    "clones_unique": 59,
+    "clones_last_14_days": 144,
+    "clones_unique": 61,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -379,8 +379,8 @@
     "stars": 5,
     "clones_last_14_days": 8,
     "clones_unique": 8,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/ChildrenBeatingMassacre/thumbnail.png"
     ]
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 12,
-    "clones_unique": 11,
+    "clones_last_14_days": 13,
+    "clones_unique": 12,
     "visitors_last_14_days": 518,
-    "visitors_unique": 210,
+    "visitors_unique": 209,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
