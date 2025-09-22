@@ -89,8 +89,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -179,8 +179,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 143,
-    "clones_unique": 60,
+    "clones_last_14_days": 141,
+    "clones_unique": 59,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -308,8 +308,8 @@
     "stars": 0,
     "clones_last_14_days": 5,
     "clones_unique": 5,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/RoR2Modding/spiderman_loader.png",
       "/img/projects/RoR2Modding/spidergwen_loader.png",
@@ -362,8 +362,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 11,
-    "clones_unique": 10,
-    "visitors_last_14_days": 511,
-    "visitors_unique": 206,
+    "clones_last_14_days": 12,
+    "clones_unique": 11,
+    "visitors_last_14_days": 518,
+    "visitors_unique": 210,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 14,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 13,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
