@@ -181,8 +181,8 @@
     "stars": 0,
     "clones_last_14_days": 4,
     "clones_unique": 4,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 146,
-    "clones_unique": 63,
+    "clones_last_14_days": 144,
+    "clones_unique": 62,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -377,8 +377,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 13,
-    "clones_unique": 12,
-    "visitors_last_14_days": 533,
-    "visitors_unique": 213,
+    "clones_last_14_days": 12,
+    "clones_unique": 11,
+    "visitors_last_14_days": 528,
+    "visitors_unique": 212,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
