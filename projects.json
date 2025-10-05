@@ -248,8 +248,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 134,
-    "clones_unique": 52,
+    "clones_last_14_days": 133,
+    "clones_unique": 50,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -362,8 +362,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -377,8 +377,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -454,8 +454,8 @@
     "stars": 1,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/JacksUnblockedHub/page.png"
     ]
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 12,
-    "clones_unique": 11,
-    "visitors_last_14_days": 493,
-    "visitors_unique": 227,
+    "clones_last_14_days": 11,
+    "clones_unique": 10,
+    "visitors_last_14_days": 506,
+    "visitors_unique": 223,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
