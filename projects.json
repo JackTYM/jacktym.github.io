@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 135,
-    "clones_unique": 51,
+    "clones_last_14_days": 137,
+    "clones_unique": 52,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -308,8 +308,8 @@
     "stars": 0,
     "clones_last_14_days": 5,
     "clones_unique": 4,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/RoR2Modding/spiderman_loader.png",
       "/img/projects/RoR2Modding/spidergwen_loader.png",
@@ -452,8 +452,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 2,
     "visitors_last_14_days": 3,
     "visitors_unique": 3,
     "images": [
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 8,
-    "clones_unique": 7,
-    "visitors_last_14_days": 498,
-    "visitors_unique": 210,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
+    "visitors_last_14_days": 487,
+    "visitors_unique": 209,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 6,
     "clones_unique": 6,
-    "visitors_last_14_days": 6,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 7,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
