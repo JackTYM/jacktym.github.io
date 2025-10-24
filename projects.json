@@ -16,8 +16,8 @@
     "date": "2025-02-06",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 1,
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -110,8 +110,8 @@
     "stars": 2,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 10,
-    "visitors_unique": 6,
+    "visitors_last_14_days": 11,
+    "visitors_unique": 7,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -362,7 +362,7 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
+    "clones_last_14_days": 4,
     "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
@@ -377,8 +377,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
+    "clones_last_14_days": 7,
+    "clones_unique": 7,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -469,8 +469,8 @@
     "stars": 0,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/ShadyAddons/thumbnail.png",
       "/img/projects/ShadyAddons/minion_items.png"
@@ -501,7 +501,7 @@
     "stars": 35,
     "clones_last_14_days": 10,
     "clones_unique": 7,
-    "visitors_last_14_days": 614,
+    "visitors_last_14_days": 620,
     "visitors_unique": 217,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 7,
-    "visitors_unique": 4,
+    "visitors_last_14_days": 9,
+    "visitors_unique": 5,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
