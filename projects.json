@@ -91,8 +91,8 @@
     "stars": 1,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 5,
-    "visitors_unique": 5,
+    "visitors_last_14_days": 6,
+    "visitors_unique": 6,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -108,8 +108,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 12,
     "visitors_unique": 8,
     "images": [
@@ -265,10 +265,10 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 170,
-    "clones_unique": 69,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "clones_last_14_days": 167,
+    "clones_unique": 67,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/jacktym.github.io/page.png"
     ]
@@ -436,7 +436,7 @@
     "visibility": "Public",
     "stars": 2,
     "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
-    "visitors_last_14_days": 617,
-    "visitors_unique": 212,
+    "clones_last_14_days": 8,
+    "clones_unique": 8,
+    "visitors_last_14_days": 604,
+    "visitors_unique": 209,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -516,8 +516,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 9,
     "visitors_unique": 4,
     "images": [
