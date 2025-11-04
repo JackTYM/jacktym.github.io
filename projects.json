@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 168,
-    "clones_unique": 66,
+    "clones_last_14_days": 165,
+    "clones_unique": 64,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -306,8 +306,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 4,
     "visitors_unique": 1,
     "images": [
@@ -502,7 +502,7 @@
     "clones_last_14_days": 7,
     "clones_unique": 7,
     "visitors_last_14_days": 611,
-    "visitors_unique": 206,
+    "visitors_unique": 207,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
