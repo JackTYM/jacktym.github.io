@@ -62,8 +62,8 @@
     "stars": 2,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -108,7 +108,7 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 5,
+    "clones_last_14_days": 6,
     "clones_unique": 4,
     "visitors_last_14_days": 7,
     "visitors_unique": 7,
@@ -265,7 +265,7 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 166,
+    "clones_last_14_days": 165,
     "clones_unique": 63,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
@@ -469,8 +469,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/ShadyAddons/thumbnail.png",
       "/img/projects/ShadyAddons/minion_items.png"
@@ -501,8 +501,8 @@
     "stars": 35,
     "clones_last_14_days": 7,
     "clones_unique": 7,
-    "visitors_last_14_days": 578,
-    "visitors_unique": 211,
+    "visitors_last_14_days": 586,
+    "visitors_unique": 216,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 7,
-    "visitors_unique": 5,
+    "visitors_last_14_days": 5,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
