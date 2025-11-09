@@ -60,8 +60,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -266,7 +266,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 167,
-    "clones_unique": 62,
+    "clones_unique": 61,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -499,9 +499,9 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 9,
-    "clones_unique": 8,
-    "visitors_last_14_days": 581,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
+    "visitors_last_14_days": 551,
     "visitors_unique": 209,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
