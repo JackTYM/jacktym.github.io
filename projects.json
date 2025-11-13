@@ -62,8 +62,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -91,8 +91,8 @@
     "stars": 1,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 172,
-    "clones_unique": 60,
+    "clones_last_14_days": 173,
+    "clones_unique": 59,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -291,8 +291,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -308,8 +308,8 @@
     "stars": 0,
     "clones_last_14_days": 7,
     "clones_unique": 5,
-    "visitors_last_14_days": 4,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/RoR2Modding/spiderman_loader.png",
       "/img/projects/RoR2Modding/spidergwen_loader.png",
@@ -485,8 +485,8 @@
     "stars": 2,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/THMCyberSecurityNotes/page.png"
     ]
@@ -499,10 +499,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 9,
-    "clones_unique": 8,
+    "clones_last_14_days": 10,
+    "clones_unique": 9,
     "visitors_last_14_days": 555,
-    "visitors_unique": 213,
+    "visitors_unique": 209,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
