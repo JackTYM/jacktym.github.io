@@ -33,8 +33,8 @@
     "date": "2024-11-22",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -91,8 +91,8 @@
     "stars": 1,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 4,
-    "visitors_unique": 4,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -110,8 +110,8 @@
     "stars": 2,
     "clones_last_14_days": 8,
     "clones_unique": 6,
-    "visitors_last_14_days": 6,
-    "visitors_unique": 6,
+    "visitors_last_14_days": 5,
+    "visitors_unique": 5,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -266,7 +266,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 169,
-    "clones_unique": 56,
+    "clones_unique": 58,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -306,8 +306,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 5,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 35,
     "clones_last_14_days": 10,
     "clones_unique": 9,
-    "visitors_last_14_days": 562,
-    "visitors_unique": 209,
+    "visitors_last_14_days": 543,
+    "visitors_unique": 200,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
@@ -531,8 +531,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
