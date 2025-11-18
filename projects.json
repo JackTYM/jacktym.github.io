@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 173,
-    "clones_unique": 64,
+    "clones_last_14_days": 170,
+    "clones_unique": 62,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
@@ -306,8 +306,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
+    "clones_last_14_days": 4,
+    "clones_unique": 3,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
@@ -323,8 +323,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 7,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -377,8 +377,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
+    "clones_last_14_days": 7,
+    "clones_unique": 7,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -501,7 +501,7 @@
     "stars": 34,
     "clones_last_14_days": 13,
     "clones_unique": 12,
-    "visitors_last_14_days": 509,
+    "visitors_last_14_days": 511,
     "visitors_unique": 227,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
