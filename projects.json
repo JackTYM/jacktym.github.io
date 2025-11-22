@@ -248,8 +248,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 165,
-    "clones_unique": 67,
+    "clones_last_14_days": 161,
+    "clones_unique": 66,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
@@ -379,8 +379,8 @@
     "stars": 5,
     "clones_last_14_days": 5,
     "clones_unique": 5,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/ChildrenBeatingMassacre/thumbnail.png"
     ]
@@ -501,7 +501,7 @@
     "stars": 34,
     "clones_last_14_days": 7,
     "clones_unique": 7,
-    "visitors_last_14_days": 592,
+    "visitors_last_14_days": 590,
     "visitors_unique": 226,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
