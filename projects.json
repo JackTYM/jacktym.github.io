@@ -91,8 +91,8 @@
     "stars": 1,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -110,8 +110,8 @@
     "stars": 2,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 8,
-    "visitors_unique": 5,
+    "visitors_last_14_days": 9,
+    "visitors_unique": 6,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 139,
-    "clones_unique": 62,
+    "clones_last_14_days": 165,
+    "clones_unique": 76,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -363,7 +363,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 2,
-    "clones_unique": 1,
+    "clones_unique": 2,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
@@ -377,8 +377,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 34,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 496,
-    "visitors_unique": 199,
+    "visitors_last_14_days": 480,
+    "visitors_unique": 198,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
