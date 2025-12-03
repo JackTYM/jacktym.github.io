@@ -110,8 +110,8 @@
     "stars": 2,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 9,
-    "visitors_unique": 6,
+    "visitors_last_14_days": 8,
+    "visitors_unique": 5,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -160,8 +160,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/SmartSchooling/thumbnail.png",
       "/img/projects/SmartSchooling/home.png",
@@ -181,8 +181,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -265,10 +265,10 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 171,
-    "clones_unique": 80,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "clones_last_14_days": 182,
+    "clones_unique": 86,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/jacktym.github.io/page.png"
     ]
@@ -306,8 +306,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -501,7 +501,7 @@
     "stars": 34,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 489,
+    "visitors_last_14_days": 433,
     "visitors_unique": 204,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
