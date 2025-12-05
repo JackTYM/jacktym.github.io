@@ -16,8 +16,8 @@
     "date": "2025-02-06",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -91,8 +91,8 @@
     "stars": 1,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -108,8 +108,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 5,
     "visitors_unique": 4,
     "images": [
@@ -158,8 +158,8 @@
     "date": "2023-12-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -454,8 +454,8 @@
     "stars": 1,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 4,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 5,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/JacksUnblockedHub/page.png"
     ]
@@ -501,8 +501,8 @@
     "stars": 34,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 410,
-    "visitors_unique": 201,
+    "visitors_last_14_days": 399,
+    "visitors_unique": 199,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
