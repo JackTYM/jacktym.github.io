@@ -60,8 +60,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 4,
     "visitors_unique": 3,
     "images": [
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 253,
-    "clones_unique": 129,
+    "clones_last_14_days": 256,
+    "clones_unique": 131,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -452,8 +452,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 0,
-    "clones_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 5,
     "visitors_unique": 4,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 34,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 448,
-    "visitors_unique": 228,
+    "visitors_last_14_days": 467,
+    "visitors_unique": 233,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -518,8 +518,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 7,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 8,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
