@@ -35,8 +35,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/ClickHouse/thumbnail.png",
       "/img/projects/ClickHouse/auth_header.png"
@@ -91,8 +91,8 @@
     "stars": 1,
     "clones_last_14_days": 5,
     "clones_unique": 5,
-    "visitors_last_14_days": 13,
-    "visitors_unique": 6,
+    "visitors_last_14_days": 12,
+    "visitors_unique": 5,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -179,8 +179,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -266,7 +266,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 267,
-    "clones_unique": 139,
+    "clones_unique": 140,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -483,8 +483,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -501,8 +501,8 @@
     "stars": 34,
     "clones_last_14_days": 5,
     "clones_unique": 5,
-    "visitors_last_14_days": 519,
-    "visitors_unique": 234,
+    "visitors_last_14_days": 522,
+    "visitors_unique": 231,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
