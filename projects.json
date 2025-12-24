@@ -89,8 +89,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -108,8 +108,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 5,
     "visitors_unique": 3,
     "images": [
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 188,
-    "clones_unique": 85,
+    "clones_last_14_days": 186,
+    "clones_unique": 82,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -291,8 +291,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -485,8 +485,8 @@
     "stars": 2,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/THMCyberSecurityNotes/page.png"
     ]
@@ -502,7 +502,7 @@
     "clones_last_14_days": 11,
     "clones_unique": 11,
     "visitors_last_14_days": 370,
-    "visitors_unique": 204,
+    "visitors_unique": 201,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
