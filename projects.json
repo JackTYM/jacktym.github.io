@@ -60,7 +60,7 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 4,
+    "clones_last_14_days": 5,
     "clones_unique": 4,
     "visitors_last_14_days": 22,
     "visitors_unique": 4,
@@ -108,8 +108,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 9,
     "visitors_unique": 9,
     "images": [
@@ -248,8 +248,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -469,8 +469,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 4,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/ShadyAddons/thumbnail.png",
       "/img/projects/ShadyAddons/minion_items.png"
@@ -501,8 +501,8 @@
     "stars": 34,
     "clones_last_14_days": 5,
     "clones_unique": 5,
-    "visitors_last_14_days": 558,
-    "visitors_unique": 270,
+    "visitors_last_14_days": 563,
+    "visitors_unique": 265,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -561,8 +561,8 @@
     "date": "2021-01-10",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
