@@ -516,8 +516,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -561,10 +561,10 @@
     "date": "2021-01-10",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/ShoutTimer/thumbnail.png"
     ]
