@@ -62,8 +62,8 @@
     "stars": 2,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 5,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 198,
-    "clones_unique": 87,
+    "clones_last_14_days": 194,
+    "clones_unique": 84,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -454,7 +454,7 @@
     "stars": 1,
     "clones_last_14_days": 16,
     "clones_unique": 2,
-    "visitors_last_14_days": 22,
+    "visitors_last_14_days": 17,
     "visitors_unique": 11,
     "images": [
       "/img/projects/JacksUnblockedHub/page.png"
@@ -485,8 +485,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/THMCyberSecurityNotes/page.png"
     ]
@@ -499,9 +499,9 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 35,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
-    "visitors_last_14_days": 492,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
+    "visitors_last_14_days": 464,
     "visitors_unique": 213,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
@@ -531,8 +531,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 15,
-    "clones_unique": 14,
+    "clones_last_14_days": 16,
+    "clones_unique": 15,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -561,8 +561,8 @@
     "date": "2021-01-10",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
