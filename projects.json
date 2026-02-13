@@ -158,8 +158,8 @@
     "date": "2023-12-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -181,8 +181,8 @@
     "stars": 0,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -265,8 +265,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 152,
-    "clones_unique": 64,
+    "clones_last_14_days": 156,
+    "clones_unique": 65,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -291,10 +291,10 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/RoR2WiiFitBoard/board.png"
     ]
@@ -501,8 +501,8 @@
     "stars": 36,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 400,
-    "visitors_unique": 176,
+    "visitors_last_14_days": 376,
+    "visitors_unique": 164,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -516,10 +516,10 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
-    "visitors_last_14_days": 4,
-    "visitors_unique": 4,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
@@ -531,7 +531,7 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 5,
+    "clones_last_14_days": 4,
     "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
