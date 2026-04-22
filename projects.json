@@ -1,5 +1,76 @@
 [
   {
+    "name": "SkyblockItemCreator",
+    "description": "A Vue-based web tool for creating visual guides of Hypixel Skyblock concept items and crafting recipes",
+    "language": "Vue",
+    "date": "2026-04-22",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://skyblock.jacktym.dev",
+    "images": [
+      "/img/projects/SkyblockItemCreator/thumbnail.png"
+    ]
+  },
+  {
+    "name": "ChaosFlipper",
+    "description": "A private Java mod commission for a custom automated workflow in Hypixel Skyblock",
+    "language": "Java",
+    "date": "2026-04-05",
+    "visibility": "Commission",
+    "images": [
+      "/img/projects/ChaosFlipper/thumbnail.png"
+    ]
+  },
+  {
+    "name": "cuttlefish-rs",
+    "description": "A persistent, multi-agent AI coding platform in Rust with Discord/WebUI/TUI interfaces, Docker sandboxes, and multi-model routing",
+    "language": "Rust",
+    "date": "2026-04-02",
+    "visibility": "Public",
+    "stars": 0,
+    "images": [
+      "/img/projects/cuttlefish-rs/thumbnail.png"
+    ]
+  },
+  {
+    "name": "Charmventory",
+    "description": "A community-driven Nuxt 3 platform for Pandora jewelry collectors to track collections, browse 5,000+ products, and connect with enthusiasts",
+    "language": "TypeScript",
+    "date": "2026-03-31",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://charmventory.com",
+    "images": [
+      "/img/projects/Charmventory/thumbnail.png"
+    ]
+  },
+  {
+    "name": "twoteaspoons",
+    "description": "A full-featured recipe sharing platform with meal planning, shopping lists, cook mode, and AI-powered recipe import. Built as a birthday gift",
+    "language": "Vue",
+    "date": "2026-03-07",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://twotsps.com",
+    "images": [
+      "/img/projects/twoteaspoons/thumbnail.png"
+    ]
+  },
+  {
+    "name": "Dribble",
+    "description": "Solo founding engineer building a sports analytics platform from scratch. Full-stack data pipeline ingesting from Opta, Twitter, and YouTube into Neon PostgreSQL with Drizzle ORM. Frontend in Nuxt 4 with Chart.js and D3 visualizations for player comparisons and stat analysis. Deployed on AWS with Lambda and ECS for scheduled scraping jobs.",
+    "language": "TypeScript",
+    "date": "2025-11-05",
+    "visibility": "Private",
+    "link": "https://dribble360.com",
+    "images": [
+      "/img/projects/Dribble/thumbnail.png",
+      "/img/projects/Dribble/tools.png",
+      "/img/projects/Dribble/statbomb.png",
+      "/img/projects/Dribble/transfers.png"
+    ]
+  },
+  {
     "name": "TwitterSpider",
     "description": "A twitter scraper designed to spider off of a user's following list and categorize by type using AI",
     "language": "Python",
