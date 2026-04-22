@@ -9,7 +9,11 @@
     "link": "https://skyblock.jacktym.dev",
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
-    ]
+    ],
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "ChaosFlipper",
@@ -30,7 +34,11 @@
     "stars": 0,
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
-    ]
+    ],
+    "clones_last_14_days": 207,
+    "clones_unique": 56,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "Charmventory",
@@ -42,7 +50,11 @@
     "link": "https://charmventory.com",
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
-    ]
+    ],
+    "clones_last_14_days": 46,
+    "clones_unique": 20,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "twoteaspoons",
@@ -54,7 +66,11 @@
     "link": "https://twotsps.com",
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
-    ]
+    ],
+    "clones_last_14_days": 7,
+    "clones_unique": 7,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "Dribble",
@@ -134,8 +150,8 @@
     "stars": 2,
     "clones_last_14_days": 13,
     "clones_unique": 5,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -182,8 +198,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 9,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 10,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -251,8 +267,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -322,8 +338,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/hypixel-botnet-server/thumbnail.png",
       "/img/projects/hypixel-botnet-server/ender_spleef.png",
@@ -337,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 181,
-    "clones_unique": 83,
+    "clones_last_14_days": 214,
+    "clones_unique": 109,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -555,8 +571,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -572,8 +588,8 @@
     "stars": 36,
     "clones_last_14_days": 8,
     "clones_unique": 8,
-    "visitors_last_14_days": 238,
-    "visitors_unique": 107,
+    "visitors_last_14_days": 235,
+    "visitors_unique": 108,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -602,8 +618,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
