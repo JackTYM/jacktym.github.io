@@ -58,10 +58,11 @@
   },
   {
     "name": "Dribble",
-    "description": "Solo founding engineer building a sports analytics platform from scratch. Full-stack data pipeline ingesting from Opta, Twitter, and YouTube into Neon PostgreSQL with Drizzle ORM. Frontend in Nuxt 4 with Chart.js and D3 visualizations for player comparisons and stat analysis. Deployed on AWS with Lambda and ECS for scheduled scraping jobs.",
+    "description": "Solo founding engineer (Nov 2025 - Feb 2026) building a sports analytics platform from scratch. Full-stack data pipeline ingesting from Opta, Twitter, and YouTube into Neon PostgreSQL with Drizzle ORM. Frontend in Nuxt 4 with Chart.js and D3 visualizations for player comparisons and stat analysis. Deployed on AWS with Lambda and ECS for scheduled scraping jobs.",
     "language": "TypeScript",
     "date": "2025-11-05",
     "visibility": "Private",
+    "pinned": true,
     "link": "https://dribble360.com",
     "images": [
       "/img/projects/Dribble/thumbnail.png",
@@ -568,7 +569,6 @@
     "language": "Java",
     "date": "2022-01-21",
     "visibility": "Public",
-    "pinned": true,
     "stars": 36,
     "clones_last_14_days": 8,
     "clones_unique": 8,
