@@ -10,8 +10,8 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 89,
-    "clones_unique": 36,
+    "clones_last_14_days": 80,
+    "clones_unique": 30,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -36,7 +36,7 @@
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
     "clones_last_14_days": 197,
-    "clones_unique": 52,
+    "clones_unique": 51,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 296,
-    "clones_unique": 109,
+    "clones_last_14_days": 63,
+    "clones_unique": 30,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -67,10 +67,10 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 27,
-    "clones_unique": 10,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "Dribble",
@@ -104,8 +104,8 @@
     "date": "2025-02-06",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -148,8 +148,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 53,
-    "clones_unique": 5,
+    "clones_last_14_days": 52,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -196,8 +196,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 36,
-    "clones_unique": 6,
+    "clones_last_14_days": 35,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -246,8 +246,8 @@
     "date": "2023-12-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -267,8 +267,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 4,
     "visitors_unique": 4,
     "images": [
@@ -282,8 +282,8 @@
     "date": "2023-08-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -336,8 +336,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,7 +353,7 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 179,
+    "clones_last_14_days": 183,
     "clones_unique": 63,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
@@ -379,8 +379,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -394,8 +394,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -411,8 +411,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 18,
-    "clones_unique": 7,
+    "clones_last_14_days": 17,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -450,8 +450,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -465,8 +465,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -523,8 +523,8 @@
     "date": "2022-06-21",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -555,8 +555,8 @@
     "date": "2022-05-04",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -571,8 +571,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -585,11 +585,11 @@
     "language": "Java",
     "date": "2022-01-21",
     "visibility": "Public",
-    "stars": 36,
+    "stars": 37,
     "clones_last_14_days": 32,
     "clones_unique": 12,
-    "visitors_last_14_days": 190,
-    "visitors_unique": 90,
+    "visitors_last_14_days": 185,
+    "visitors_unique": 85,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -603,8 +603,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
@@ -618,8 +618,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -633,8 +633,8 @@
     "date": "2021-04-26",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -648,8 +648,8 @@
     "date": "2021-01-10",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
