@@ -10,8 +10,8 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 17,
-    "clones_unique": 12,
+    "clones_last_14_days": 15,
+    "clones_unique": 10,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 195,
-    "clones_unique": 51,
+    "clones_last_14_days": 20,
+    "clones_unique": 10,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 53,
-    "clones_unique": 19,
+    "clones_last_14_days": 47,
+    "clones_unique": 17,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -67,7 +67,7 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 5,
+    "clones_last_14_days": 11,
     "clones_unique": 4,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 52,
-    "clones_unique": 4,
+    "clones_last_14_days": 70,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -198,8 +198,8 @@
     "stars": 2,
     "clones_last_14_days": 35,
     "clones_unique": 5,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -269,8 +269,8 @@
     "stars": 0,
     "clones_last_14_days": 4,
     "clones_unique": 4,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 195,
-    "clones_unique": 66,
+    "clones_last_14_days": 187,
+    "clones_unique": 65,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -379,8 +379,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -411,8 +411,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 19,
-    "clones_unique": 7,
+    "clones_last_14_days": 18,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -523,8 +523,8 @@
     "date": "2022-06-21",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 37,
-    "clones_last_14_days": 30,
-    "clones_unique": 10,
-    "visitors_last_14_days": 199,
-    "visitors_unique": 85,
+    "clones_last_14_days": 9,
+    "clones_unique": 9,
+    "visitors_last_14_days": 189,
+    "visitors_unique": 80,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
