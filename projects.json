@@ -10,8 +10,8 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -36,7 +36,7 @@
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
     "clones_last_14_days": 17,
-    "clones_unique": 12,
+    "clones_unique": 13,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 8,
-    "clones_unique": 7,
+    "clones_last_14_days": 9,
+    "clones_unique": 8,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -67,10 +67,10 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 65,
-    "clones_unique": 37,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "clones_last_14_days": 67,
+    "clones_unique": 39,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "Dribble",
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 155,
-    "clones_unique": 52,
+    "clones_last_14_days": 142,
+    "clones_unique": 49,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -450,8 +450,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 37,
-    "clones_last_14_days": 10,
-    "clones_unique": 9,
-    "visitors_last_14_days": 210,
-    "visitors_unique": 102,
+    "clones_last_14_days": 9,
+    "clones_unique": 8,
+    "visitors_last_14_days": 211,
+    "visitors_unique": 104,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -603,8 +603,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
