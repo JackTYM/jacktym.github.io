@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 11,
-    "clones_unique": 8,
+    "clones_last_14_days": 101,
+    "clones_unique": 31,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 42,
-    "clones_unique": 20,
+    "clones_last_14_days": 47,
+    "clones_unique": 22,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -67,8 +67,8 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 43,
-    "clones_unique": 11,
+    "clones_last_14_days": 44,
+    "clones_unique": 12,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -121,8 +121,8 @@
     "date": "2024-11-22",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 14,
-    "clones_unique": 4,
+    "clones_last_14_days": 13,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 251,
-    "clones_unique": 85,
+    "clones_last_14_days": 252,
+    "clones_unique": 82,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -467,8 +467,8 @@
     "stars": 5,
     "clones_last_14_days": 6,
     "clones_unique": 6,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/ChildrenBeatingMassacre/thumbnail.png"
     ]
@@ -540,8 +540,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -588,7 +588,7 @@
     "stars": 36,
     "clones_last_14_days": 7,
     "clones_unique": 7,
-    "visitors_last_14_days": 263,
+    "visitors_last_14_days": 286,
     "visitors_unique": 121,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
