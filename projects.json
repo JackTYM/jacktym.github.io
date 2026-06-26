@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 101,
-    "clones_unique": 31,
+    "clones_last_14_days": 185,
+    "clones_unique": 52,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 47,
-    "clones_unique": 22,
+    "clones_last_14_days": 120,
+    "clones_unique": 38,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -148,10 +148,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 2,
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
-    "visitors_last_14_days": 21,
-    "visitors_unique": 2,
+    "clones_last_14_days": 4,
+    "clones_unique": 3,
+    "visitors_last_14_days": 22,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 4,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 252,
-    "clones_unique": 82,
+    "clones_last_14_days": 236,
+    "clones_unique": 76,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 36,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
-    "visitors_last_14_days": 286,
-    "visitors_unique": 121,
+    "clones_last_14_days": 8,
+    "clones_unique": 8,
+    "visitors_last_14_days": 294,
+    "visitors_unique": 118,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -603,8 +603,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 12,
     "visitors_unique": 1,
     "images": [
