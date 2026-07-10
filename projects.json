@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 90,
-    "clones_unique": 27,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 103,
-    "clones_unique": 40,
+    "clones_last_14_days": 26,
+    "clones_unique": 21,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -150,8 +150,8 @@
     "stars": 2,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 150,
-    "clones_unique": 57,
+    "clones_last_14_days": 141,
+    "clones_unique": 53,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -465,8 +465,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 5,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 36,
-    "clones_last_14_days": 11,
-    "clones_unique": 6,
-    "visitors_last_14_days": 148,
-    "visitors_unique": 82,
+    "clones_last_14_days": 15,
+    "clones_unique": 9,
+    "visitors_last_14_days": 141,
+    "visitors_unique": 86,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -603,10 +603,10 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 4,
-    "visitors_unique": 3,
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
+    "visitors_last_14_days": 8,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
