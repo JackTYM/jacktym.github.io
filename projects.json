@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 20,
-    "clones_unique": 12,
+    "clones_last_14_days": 18,
+    "clones_unique": 10,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -177,7 +177,7 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 1,
+    "clones_last_14_days": 2,
     "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
@@ -198,8 +198,8 @@
     "stars": 2,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -336,8 +336,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 113,
-    "clones_unique": 40,
+    "clones_last_14_days": 105,
+    "clones_unique": 37,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 36,
-    "clones_last_14_days": 24,
-    "clones_unique": 16,
-    "visitors_last_14_days": 148,
-    "visitors_unique": 92,
+    "clones_last_14_days": 25,
+    "clones_unique": 17,
+    "visitors_last_14_days": 186,
+    "visitors_unique": 93,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
