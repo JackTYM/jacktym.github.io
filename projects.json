@@ -35,7 +35,7 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 21,
+    "clones_last_14_days": 24,
     "clones_unique": 12,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -67,8 +67,8 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 14,
-    "clones_unique": 13,
+    "clones_last_14_days": 12,
+    "clones_unique": 12,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -198,8 +198,8 @@
     "stars": 2,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 83,
-    "clones_unique": 27,
+    "clones_last_14_days": 84,
+    "clones_unique": 25,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -396,8 +396,8 @@
     "stars": 0,
     "clones_last_14_days": 6,
     "clones_unique": 5,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/RoR2Modding/spiderman_loader.png",
       "/img/projects/RoR2Modding/spidergwen_loader.png",
@@ -589,7 +589,7 @@
     "clones_last_14_days": 25,
     "clones_unique": 17,
     "visitors_last_14_days": 213,
-    "visitors_unique": 104,
+    "visitors_unique": 108,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
