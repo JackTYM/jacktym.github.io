@@ -12,8 +12,8 @@
     ],
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "ChaosFlipper",
@@ -178,7 +178,7 @@
     "pinned": true,
     "stars": 0,
     "clones_last_14_days": 3,
-    "clones_unique": 2,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 74,
-    "clones_unique": 19,
+    "clones_last_14_days": 81,
+    "clones_unique": 21,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -411,8 +411,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 19,
-    "clones_unique": 17,
-    "visitors_last_14_days": 206,
-    "visitors_unique": 107,
+    "clones_last_14_days": 15,
+    "clones_unique": 14,
+    "visitors_last_14_days": 208,
+    "visitors_unique": 103,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -605,8 +605,8 @@
     "stars": 2,
     "clones_last_14_days": 1,
     "clones_unique": 1,
-    "visitors_last_14_days": 7,
-    "visitors_unique": 4,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
