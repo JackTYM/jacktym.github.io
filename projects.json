@@ -12,8 +12,8 @@
     ],
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "visitors_last_14_days": 5,
+    "visitors_unique": 2
   },
   {
     "name": "ChaosFlipper",
@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 16,
-    "clones_unique": 10,
+    "clones_last_14_days": 15,
+    "clones_unique": 9,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -67,7 +67,7 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 5,
+    "clones_last_14_days": 4,
     "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 3,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -267,8 +267,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -394,8 +394,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 4,
-    "clones_unique": 3,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -555,8 +555,8 @@
     "date": "2022-05-04",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 12,
-    "clones_unique": 10,
-    "visitors_last_14_days": 205,
-    "visitors_unique": 100,
+    "clones_last_14_days": 13,
+    "clones_unique": 11,
+    "visitors_last_14_days": 207,
+    "visitors_unique": 101,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -603,8 +603,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
