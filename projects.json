@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 15,
-    "clones_unique": 9,
+    "clones_last_14_days": 14,
+    "clones_unique": 8,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -336,8 +336,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 88,
-    "clones_unique": 27,
+    "clones_last_14_days": 98,
+    "clones_unique": 30,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 13,
-    "clones_unique": 11,
-    "visitors_last_14_days": 207,
-    "visitors_unique": 101,
+    "clones_last_14_days": 15,
+    "clones_unique": 13,
+    "visitors_last_14_days": 202,
+    "visitors_unique": 100,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
