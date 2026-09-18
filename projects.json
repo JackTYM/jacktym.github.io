@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 17,
-    "clones_unique": 10,
+    "clones_last_14_days": 20,
+    "clones_unique": 12,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -104,8 +104,8 @@
     "date": "2025-02-06",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 0,
-    "clones_last_14_days": 12,
-    "clones_unique": 6,
+    "clones_last_14_days": 13,
+    "clones_unique": 7,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 102,
-    "clones_unique": 36,
+    "clones_last_14_days": 99,
+    "clones_unique": 33,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -450,7 +450,7 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
+    "clones_last_14_days": 3,
     "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
@@ -465,8 +465,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 4,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -542,8 +542,8 @@
     "stars": 0,
     "clones_last_14_days": 0,
     "clones_unique": 0,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/JacksUnblockedHub/page.png"
     ]
@@ -588,8 +588,8 @@
     "stars": 35,
     "clones_last_14_days": 13,
     "clones_unique": 13,
-    "visitors_last_14_days": 90,
-    "visitors_unique": 59,
+    "visitors_last_14_days": 91,
+    "visitors_unique": 58,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -620,8 +620,8 @@
     "stars": 0,
     "clones_last_14_days": 7,
     "clones_unique": 7,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/JackTYM/thumbnail.png"
     ]
@@ -648,8 +648,8 @@
     "date": "2021-01-10",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
