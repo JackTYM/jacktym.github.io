@@ -37,8 +37,8 @@
     ],
     "clones_last_14_days": 14,
     "clones_unique": 8,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "Charmventory",
@@ -150,8 +150,8 @@
     "stars": 1,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 0,
-    "clones_last_14_days": 17,
-    "clones_unique": 11,
+    "clones_last_14_days": 18,
+    "clones_unique": 12,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -198,8 +198,8 @@
     "stars": 1,
     "clones_last_14_days": 5,
     "clones_unique": 5,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -353,7 +353,7 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 82,
+    "clones_last_14_days": 83,
     "clones_unique": 26,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
@@ -588,8 +588,8 @@
     "stars": 35,
     "clones_last_14_days": 13,
     "clones_unique": 13,
-    "visitors_last_14_days": 110,
-    "visitors_unique": 66,
+    "visitors_last_14_days": 125,
+    "visitors_unique": 68,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -605,8 +605,8 @@
     "stars": 2,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
