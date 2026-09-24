@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 18,
-    "clones_unique": 11,
+    "clones_last_14_days": 20,
+    "clones_unique": 13,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
   },
@@ -51,8 +51,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -106,8 +106,8 @@
     "stars": 0,
     "clones_last_14_days": 7,
     "clones_unique": 7,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/sha256-rs/thumbnail.png",
       "/img/projects/sha256-rs/k_chart.png",
@@ -177,10 +177,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 0,
-    "clones_last_14_days": 19,
+    "clones_last_14_days": 20,
     "clones_unique": 13,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkServer/thumbnail.png",
       "/img/projects/MarketSharkServer/active_clients.png",
@@ -267,8 +267,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 5,
     "visitors_unique": 5,
     "images": [
@@ -282,8 +282,8 @@
     "date": "2023-08-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 1,
+    "clones_last_14_days": 3,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -353,8 +353,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 85,
-    "clones_unique": 28,
+    "clones_last_14_days": 94,
+    "clones_unique": 34,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -394,8 +394,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -586,8 +586,8 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 14,
-    "clones_unique": 14,
+    "clones_last_14_days": 16,
+    "clones_unique": 15,
     "visitors_last_14_days": 121,
     "visitors_unique": 69,
     "images": [
@@ -603,8 +603,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -633,8 +633,8 @@
     "date": "2021-04-26",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
