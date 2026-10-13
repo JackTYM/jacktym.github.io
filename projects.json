@@ -12,8 +12,8 @@
     ],
     "clones_last_14_days": 6,
     "clones_unique": 5,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "ChaosFlipper",
@@ -35,8 +35,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 32,
-    "clones_unique": 27,
+    "clones_last_14_days": 28,
+    "clones_unique": 24,
     "visitors_last_14_days": 4,
     "visitors_unique": 2
   },
@@ -121,8 +121,8 @@
     "date": "2024-11-22",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 2,
+    "clones_last_14_days": 2,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -150,8 +150,8 @@
     "stars": 1,
     "clones_last_14_days": 3,
     "clones_unique": 3,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -177,8 +177,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 0,
-    "clones_last_14_days": 22,
-    "clones_unique": 20,
+    "clones_last_14_days": 20,
+    "clones_unique": 19,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -198,8 +198,8 @@
     "stars": 1,
     "clones_last_14_days": 6,
     "clones_unique": 6,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -353,7 +353,7 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 153,
+    "clones_last_14_days": 154,
     "clones_unique": 67,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
@@ -394,8 +394,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 5,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -523,8 +523,8 @@
     "date": "2022-06-21",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -542,8 +542,8 @@
     "stars": 0,
     "clones_last_14_days": 2,
     "clones_unique": 2,
-    "visitors_last_14_days": 10,
-    "visitors_unique": 5,
+    "visitors_last_14_days": 12,
+    "visitors_unique": 7,
     "images": [
       "/img/projects/JacksUnblockedHub/page.png"
     ]
@@ -555,10 +555,10 @@
     "date": "2022-05-04",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0,
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/ShadyAddons/thumbnail.png",
       "/img/projects/ShadyAddons/minion_items.png"
@@ -586,10 +586,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
-    "visitors_last_14_days": 74,
-    "visitors_unique": 42,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
+    "visitors_last_14_days": 132,
+    "visitors_unique": 49,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -603,10 +603,10 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
