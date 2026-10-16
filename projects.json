@@ -1,5 +1,147 @@
 [
   {
+    "name": "corvette-positraction",
+    "description": "A collector's archive for a Corvette diecast/memorabilia collection \u2014 Nuxt 4, Neon Postgres, Cloudflare R2",
+    "language": "Vue",
+    "date": "2026-07-28",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://corvettepositraction.com",
+    "images": [
+      "/img/projects/corvette-positraction/thumbnail.png",
+      "/img/projects/corvette-positraction/collection.png"
+    ]
+  },
+  {
+    "name": "sogen",
+    "description": "A personal fork of an open-source Windows/Linux userspace emulator, adding a FEX-based x86-64→ARM64 backend and a native Direct3D9 UMD pipeline to run real Windows games — got Call of Duty: Modern Warfare 2 running at 80+ FPS on an M5 Pro",
+    "language": "C++",
+    "date": "2026-10-15",
+    "visibility": "Public",
+    "stars": 0,
+    "images": [
+      "/img/projects/sogen/thumbnail.png"
+    ]
+  },
+  {
+    "name": "SogenIOS",
+    "description": "An iOS app shell embedding the sogen emulator with the FEX backend, StikJIT for on-device JIT, and MoltenVK for Vulkan-to-Metal translation — runs the same Windows games on iPhone, hitting 60+ FPS on an iPhone 16 Pro Max",
+    "language": "Swift",
+    "date": "2026-10-14",
+    "visibility": "Public",
+    "stars": 1,
+    "images": [
+      "/img/projects/SogenIOS/thumbnail.png"
+    ]
+  },
+  {
+    "name": "CemuBar",
+    "description": "A Wii U GamePad-streaming dongle — custom firmware across two chips (an RTL8720DF GamePad link and a Pico 2 W Wiimote front end), a reproducible OTA bundle format, and CI-built releases",
+    "language": "C",
+    "date": "2026-10-16",
+    "visibility": "Private",
+    "images": [
+      "/img/projects/CemuBar/thumbnail.png"
+    ]
+  },
+  {
+    "name": "t3code",
+    "description": "A personal fork of T3 Code, the agent-harness control plane for Claude Code, Codex, and other coding agents — merged PRs adding MCP management and inline command output",
+    "language": "TypeScript",
+    "date": "2026-10-07",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://t3.codes",
+    "images": [
+      "/img/projects/t3code/thumbnail.png",
+      "/img/projects/t3code/testimonials.png"
+    ]
+  },
+  {
+    "name": "kingpost",
+    "description": "A coordination layer for teams of coding agents — presence, contract-change broadcast, and shared findings across Claude Code and Codex. MIT-licensed CLI/protocol with a hosted dashboard (in progress)",
+    "language": "TypeScript",
+    "date": "2026-10-07",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://github.com/kingpost-dev/kingpost"
+  },
+  {
+    "name": "random-shit-tracker",
+    "description": "RandomShitTracker.com — a personal collection tracker for rocket motors, model kits, model airplanes, and other collectables, on the same Nuxt 4 / Neon / Cloudflare R2 stack as corvette-positraction",
+    "language": "Vue",
+    "date": "2026-09-17",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://randomshittracker.com",
+    "images": [
+      "/img/projects/random-shit-tracker/thumbnail.png",
+      "/img/projects/random-shit-tracker/browse.png"
+    ]
+  },
+  {
+    "name": "devils_advisor",
+    "description": "A hackathon project — an internal API over a shared Neon database powering an AI schedule-planning chatbot for ASU students, with scrapers for class data and RateMyProfessors",
+    "language": "Python",
+    "date": "2026-09-28",
+    "visibility": "Private"
+  },
+  {
+    "name": "FEX",
+    "description": "A personal fork of FEX, the x86/x86-64-to-ARM64 usermode emulator — interrupt-handling and JIT fixes enabling the engine to run correctly under iOS's execution model, powering SogenIOS",
+    "language": "C++",
+    "date": "2026-09-22",
+    "visibility": "Public",
+    "stars": 6
+  },
+  {
+    "name": "myolfactorylab",
+    "description": "A personal fragrance-layering tracker \u2014 Nuxt/Vue static SPA backed by Neon Auth, Neon Data API, and Cloudflare R2",
+    "language": "Vue",
+    "date": "2026-07-03",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://myolfactorylab.com",
+    "images": [
+      "/img/projects/myolfactorylab/thumbnail.png",
+      "/img/projects/myolfactorylab/report.png"
+    ]
+  },
+  {
+    "name": "betting-app-scraper",
+    "description": "An iOS Expo pipeline to scrape bets from Caesar's, FanDuel, and DraftKings accounts to a Neon database",
+    "language": "TypeScript",
+    "date": "2026-06-21",
+    "visibility": "Public",
+    "stars": 0
+  },
+  {
+    "name": "bytewoof-portfolio",
+    "description": "A personal portfolio and link-in-bio site for the 'byte' persona, with a live guestbook and boop counter",
+    "language": "Vue",
+    "date": "2026-06-18",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://bytewoof.dog",
+    "images": [
+      "/img/projects/bytewoof-portfolio/thumbnail.png",
+      "/img/projects/bytewoof-portfolio/guestbook.png"
+    ]
+  },
+  {
+    "name": "YargerDevelopment",
+    "description": "A freelance web development business site \u2014 services, pricing, and client work for YargerDevelopment",
+    "language": "Vue",
+    "date": "2026-04-27",
+    "visibility": "Public",
+    "stars": 0,
+    "link": "https://yargerdevelopment.com",
+    "images": [
+      "/img/projects/YargerDevelopment/thumbnail.png",
+      "/img/projects/YargerDevelopment/pricing.png"
+    ]
+  },
+  {
     "name": "SkyblockItemCreator",
     "description": "A Vue-based web tool for creating visual guides of Hypixel Skyblock concept items and crafting recipes",
     "language": "Vue",
@@ -16,7 +158,7 @@
     "visitors_unique": 0
   },
   {
-    "name": "ChaosFlipper",
+    "name": "chaos-craft-flipper",
     "description": "A private Java mod commission for a custom automated workflow in Hypixel Skyblock",
     "language": "Java",
     "date": "2026-04-05",
@@ -423,6 +565,16 @@
     ]
   },
   {
+    "name": "ChatGPTBot",
+    "description": "ChatGPT integration into a discord embed with a free account using scraping techniques bypassing the official API",
+    "language": "Python",
+    "date": "2022-12-08",
+    "visibility": "Private",
+    "images": [
+      "/img/projects/ChatGPTBot/img.png"
+    ]
+  },
+  {
     "name": "LongFormToShortForm",
     "description": "A project to transform long form content (Youtube videos, TV Shows) into multiple 1 minute tiktok parts with another video in the background",
     "language": "Python",
@@ -431,16 +583,6 @@
     "images": [
       "/img/projects/LongFormToShortForm/thumbnail.png",
       "/img/projects/LongFormToShortForm/tiktok.png"
-    ]
-  },
-  {
-    "name": "ChatGPTBot",
-    "description": "ChatGPT integration into a discord embed with a free account using scraping techniques bypassing the official API",
-    "language": "Python",
-    "date": "2022-12-08",
-    "visibility": "Private",
-    "images": [
-      "/img/projects/ChatGPTBot/img.png"
     ]
   },
   {
