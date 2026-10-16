@@ -10,11 +10,15 @@
     "images": [
       "/img/projects/corvette-positraction/thumbnail.png",
       "/img/projects/corvette-positraction/collection.png"
-    ]
+    ],
+    "clones_last_14_days": 16,
+    "clones_unique": 11,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "sogen",
-    "description": "A personal fork of an open-source Windows/Linux userspace emulator — built its FEX-based x86-64→ARM64 backend and a native Direct3D9 UMD pipeline so it runs real Windows games on both macOS and iOS. Got Call of Duty: Modern Warfare 2 running at 80+ FPS on an M5 Pro Mac and 60+ FPS on an iPhone 16 Pro Max. 18 of 26 PRs submitted upstream have been merged.",
+    "description": "A personal fork of an open-source Windows/Linux userspace emulator \u2014 built its FEX-based x86-64\u2192ARM64 backend and a native Direct3D9 UMD pipeline so it runs real Windows games on both macOS and iOS. Got Call of Duty: Modern Warfare 2 running at 80+ FPS on an M5 Pro Mac and 60+ FPS on an iPhone 16 Pro Max. 18 of 26 PRs submitted upstream have been merged.",
     "language": "C++",
     "date": "2026-10-15",
     "visibility": "Public",
@@ -22,11 +26,15 @@
     "stars": 0,
     "images": [
       "/img/projects/sogen/thumbnail.png"
-    ]
+    ],
+    "clones_last_14_days": 3856,
+    "clones_unique": 317,
+    "visitors_last_14_days": 11,
+    "visitors_unique": 5
   },
   {
     "name": "SogenIOS",
-    "description": "An iOS app shell embedding sogen — runs real Windows games on iPhone, pairing the FEX backend with MoltenVK for Vulkan-to-Metal translation. Gets JIT working on non-jailbroken iPhones via StikJIT's JIT26 protocol, where the app self-attaches to itself as a debugger (a brk #0xf00d handshake) to unlock the write/execute code-page transition iOS normally blocks. Hits 60+ FPS running Modern Warfare 2 on an iPhone 16 Pro Max.",
+    "description": "An iOS app shell embedding sogen \u2014 runs real Windows games on iPhone, pairing the FEX backend with MoltenVK for Vulkan-to-Metal translation. Gets JIT working on non-jailbroken iPhones via StikJIT's JIT26 protocol, where the app self-attaches to itself as a debugger (a brk #0xf00d handshake) to unlock the write/execute code-page transition iOS normally blocks. Hits 60+ FPS running Modern Warfare 2 on an iPhone 16 Pro Max.",
     "language": "Swift",
     "date": "2026-10-14",
     "visibility": "Public",
@@ -34,11 +42,15 @@
     "stars": 1,
     "images": [
       "/img/projects/SogenIOS/thumbnail.png"
-    ]
+    ],
+    "clones_last_14_days": 32,
+    "clones_unique": 21,
+    "visitors_last_14_days": 13,
+    "visitors_unique": 12
   },
   {
     "name": "CemuBar",
-    "description": "A Wii U GamePad-streaming dongle — custom FreeRTOS firmware makes an RTL8720DF microcontroller impersonate a Wii U console to a real GamePad over a modified 5GHz handshake (PTK rotation, RSN OUI remapping), streaming video and returning input over a custom USB protocol at 60 FPS. Reverse-engineered the official GamePad firmware in IDA Pro to find an undocumented ±1ms keyframe window, and binary-patched the closed-source Wi-Fi driver after confirming the behavior couldn't be configured around. Also includes a Pico 2 W front end for 4 Wiimotes over USB HID/DolphinBar mode.",
+    "description": "A Wii U GamePad-streaming dongle \u2014 custom FreeRTOS firmware makes an RTL8720DF microcontroller impersonate a Wii U console to a real GamePad over a modified 5GHz handshake (PTK rotation, RSN OUI remapping), streaming video and returning input over a custom USB protocol at 60 FPS. Reverse-engineered the official GamePad firmware in IDA Pro to find an undocumented \u00b11ms keyframe window, and binary-patched the closed-source Wi-Fi driver after confirming the behavior couldn't be configured around. Also includes a Pico 2 W front end for 4 Wiimotes over USB HID/DolphinBar mode.",
     "language": "C",
     "date": "2026-10-16",
     "visibility": "Private",
@@ -49,7 +61,7 @@
   },
   {
     "name": "t3code",
-    "description": "A personal fork of T3 Code, the agent-harness control plane for Claude Code, Codex, and other coding agents — merged PRs adding MCP management and inline command output",
+    "description": "A personal fork of T3 Code, the agent-harness control plane for Claude Code, Codex, and other coding agents \u2014 merged PRs adding MCP management and inline command output",
     "language": "TypeScript",
     "date": "2026-10-07",
     "visibility": "Public",
@@ -58,20 +70,28 @@
     "images": [
       "/img/projects/t3code/thumbnail.png",
       "/img/projects/t3code/testimonials.png"
-    ]
+    ],
+    "clones_last_14_days": 92,
+    "clones_unique": 17,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "kingpost",
-    "description": "A coordination layer for teams of coding agents — presence, contract-change broadcast, and shared findings across Claude Code and Codex. MIT-licensed CLI/protocol with a hosted dashboard (in progress)",
+    "description": "A coordination layer for teams of coding agents \u2014 presence, contract-change broadcast, and shared findings across Claude Code and Codex. MIT-licensed CLI/protocol with a hosted dashboard (in progress)",
     "language": "TypeScript",
     "date": "2026-10-07",
     "visibility": "Public",
     "stars": 0,
-    "link": "https://github.com/kingpost-dev/kingpost"
+    "link": "https://github.com/kingpost-dev/kingpost",
+    "clones_last_14_days": 0,
+    "clones_unique": 0,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "random-shit-tracker",
-    "description": "RandomShitTracker.com — a personal collection tracker for rocket motors, model kits, model airplanes, and other collectables, on the same Nuxt 4 / Neon / Cloudflare R2 stack as corvette-positraction",
+    "description": "RandomShitTracker.com \u2014 a personal collection tracker for rocket motors, model kits, model airplanes, and other collectables, on the same Nuxt 4 / Neon / Cloudflare R2 stack as corvette-positraction",
     "language": "Vue",
     "date": "2026-09-17",
     "visibility": "Public",
@@ -80,23 +100,31 @@
     "images": [
       "/img/projects/random-shit-tracker/thumbnail.png",
       "/img/projects/random-shit-tracker/browse.png"
-    ]
+    ],
+    "clones_last_14_days": 10,
+    "clones_unique": 6,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "devils_advisor",
-    "description": "A hackathon project — an internal API over a shared Neon database powering an AI schedule-planning chatbot for ASU students, with scrapers for class data and RateMyProfessors",
+    "description": "A hackathon project \u2014 an internal API over a shared Neon database powering an AI schedule-planning chatbot for ASU students, with scrapers for class data and RateMyProfessors",
     "language": "Python",
     "date": "2026-09-28",
     "visibility": "Private"
   },
   {
     "name": "FEX",
-    "description": "A personal fork of FEX, the x86/x86-64-to-ARM64 usermode JIT — built its macOS/Apple Silicon backend from scratch, including reconciling FEX's 4KB guest pages with Apple Silicon's 16KB host pages, plus interrupt-handling and JIT fixes for iOS's execution model. This work landed upstream via 8+ merged PRs into sogen (not into FEX-Emu/FEX itself), and now powers both sogen on macOS and SogenIOS on iPhone.",
+    "description": "A personal fork of FEX, the x86/x86-64-to-ARM64 usermode JIT \u2014 built its macOS/Apple Silicon backend from scratch, including reconciling FEX's 4KB guest pages with Apple Silicon's 16KB host pages, plus interrupt-handling and JIT fixes for iOS's execution model. This work landed upstream via 8+ merged PRs into sogen (not into FEX-Emu/FEX itself), and now powers both sogen on macOS and SogenIOS on iPhone.",
     "language": "C++",
     "date": "2026-09-22",
     "visibility": "Public",
     "pinned": true,
-    "stars": 6
+    "stars": 6,
+    "clones_last_14_days": 847,
+    "clones_unique": 11,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 2
   },
   {
     "name": "myolfactorylab",
@@ -109,7 +137,11 @@
     "images": [
       "/img/projects/myolfactorylab/thumbnail.png",
       "/img/projects/myolfactorylab/report.png"
-    ]
+    ],
+    "clones_last_14_days": 4,
+    "clones_unique": 3,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "betting-app-scraper",
@@ -117,7 +149,11 @@
     "language": "TypeScript",
     "date": "2026-06-21",
     "visibility": "Public",
-    "stars": 0
+    "stars": 0,
+    "clones_last_14_days": 8,
+    "clones_unique": 7,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 1
   },
   {
     "name": "bytewoof-portfolio",
@@ -130,7 +166,11 @@
     "images": [
       "/img/projects/bytewoof-portfolio/thumbnail.png",
       "/img/projects/bytewoof-portfolio/guestbook.png"
-    ]
+    ],
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "YargerDevelopment",
@@ -143,7 +183,11 @@
     "images": [
       "/img/projects/YargerDevelopment/thumbnail.png",
       "/img/projects/YargerDevelopment/pricing.png"
-    ]
+    ],
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "SkyblockItemCreator",
@@ -156,8 +200,8 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -181,8 +225,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 34,
-    "clones_unique": 30,
+    "clones_last_14_days": 30,
+    "clones_unique": 26,
     "visitors_last_14_days": 4,
     "visitors_unique": 2
   },
@@ -197,8 +241,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 8,
-    "clones_unique": 7,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -292,8 +336,8 @@
     "date": "2024-08-07",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 44,
+    "clones_unique": 5,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -320,8 +364,8 @@
     "date": "2024-05-14",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 22,
-    "clones_unique": 21,
+    "clones_last_14_days": 21,
+    "clones_unique": 20,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -339,8 +383,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
+    "clones_last_14_days": 154,
+    "clones_unique": 8,
     "visitors_last_14_days": 4,
     "visitors_unique": 1,
     "images": [
@@ -496,8 +540,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 176,
-    "clones_unique": 76,
+    "clones_last_14_days": 173,
+    "clones_unique": 75,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -593,8 +637,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -728,10 +772,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
-    "visitors_last_14_days": 141,
-    "visitors_unique": 51,
+    "clones_last_14_days": 8,
+    "clones_unique": 8,
+    "visitors_last_14_days": 135,
+    "visitors_unique": 47,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -745,8 +789,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 4,
     "visitors_unique": 4,
     "images": [
