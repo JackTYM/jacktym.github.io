@@ -14,10 +14,11 @@
   },
   {
     "name": "sogen",
-    "description": "A personal fork of an open-source Windows/Linux userspace emulator, adding a FEX-based x86-64→ARM64 backend and a native Direct3D9 UMD pipeline to run real Windows games — got Call of Duty: Modern Warfare 2 running at 80+ FPS on an M5 Pro",
+    "description": "A personal fork of an open-source Windows/Linux userspace emulator — built its FEX-based x86-64→ARM64 backend and a native Direct3D9 UMD pipeline so it runs real Windows games on both macOS and iOS. Got Call of Duty: Modern Warfare 2 running at 80+ FPS on an M5 Pro Mac and 60+ FPS on an iPhone 16 Pro Max. 18 of 26 PRs submitted upstream have been merged.",
     "language": "C++",
     "date": "2026-10-15",
     "visibility": "Public",
+    "pinned": true,
     "stars": 0,
     "images": [
       "/img/projects/sogen/thumbnail.png"
@@ -25,10 +26,11 @@
   },
   {
     "name": "SogenIOS",
-    "description": "An iOS app shell embedding the sogen emulator with the FEX backend, StikJIT for on-device JIT, and MoltenVK for Vulkan-to-Metal translation — runs the same Windows games on iPhone, hitting 60+ FPS on an iPhone 16 Pro Max",
+    "description": "An iOS app shell embedding sogen — runs real Windows games on iPhone, pairing the FEX backend with MoltenVK for Vulkan-to-Metal translation. Gets JIT working on non-jailbroken iPhones via StikJIT's JIT26 protocol, where the app self-attaches to itself as a debugger (a brk #0xf00d handshake) to unlock the write/execute code-page transition iOS normally blocks. Hits 60+ FPS running Modern Warfare 2 on an iPhone 16 Pro Max.",
     "language": "Swift",
     "date": "2026-10-14",
     "visibility": "Public",
+    "pinned": true,
     "stars": 1,
     "images": [
       "/img/projects/SogenIOS/thumbnail.png"
@@ -36,10 +38,11 @@
   },
   {
     "name": "CemuBar",
-    "description": "A Wii U GamePad-streaming dongle — custom firmware across two chips (an RTL8720DF GamePad link and a Pico 2 W Wiimote front end), a reproducible OTA bundle format, and CI-built releases",
+    "description": "A Wii U GamePad-streaming dongle — custom FreeRTOS firmware makes an RTL8720DF microcontroller impersonate a Wii U console to a real GamePad over a modified 5GHz handshake (PTK rotation, RSN OUI remapping), streaming video and returning input over a custom USB protocol at 60 FPS. Reverse-engineered the official GamePad firmware in IDA Pro to find an undocumented ±1ms keyframe window, and binary-patched the closed-source Wi-Fi driver after confirming the behavior couldn't be configured around. Also includes a Pico 2 W front end for 4 Wiimotes over USB HID/DolphinBar mode.",
     "language": "C",
     "date": "2026-10-16",
     "visibility": "Private",
+    "pinned": true,
     "images": [
       "/img/projects/CemuBar/thumbnail.png"
     ]
@@ -88,10 +91,11 @@
   },
   {
     "name": "FEX",
-    "description": "A personal fork of FEX, the x86/x86-64-to-ARM64 usermode emulator — interrupt-handling and JIT fixes enabling the engine to run correctly under iOS's execution model, powering SogenIOS",
+    "description": "A personal fork of FEX, the x86/x86-64-to-ARM64 usermode JIT — built its macOS/Apple Silicon backend from scratch, including reconciling FEX's 4KB guest pages with Apple Silicon's 16KB host pages, plus interrupt-handling and JIT fixes for iOS's execution model. This work landed upstream via 8+ merged PRs into sogen (not into FEX-Emu/FEX itself), and now powers both sogen on macOS and SogenIOS on iPhone.",
     "language": "C++",
     "date": "2026-09-22",
     "visibility": "Public",
+    "pinned": true,
     "stars": 6
   },
   {
@@ -220,7 +224,6 @@
     "language": "TypeScript",
     "date": "2025-11-05",
     "visibility": "Private",
-    "pinned": true,
     "link": "https://dribble360.com",
     "images": [
       "/img/projects/Dribble/thumbnail.png",
@@ -288,7 +291,6 @@
     "language": "C++",
     "date": "2024-08-07",
     "visibility": "Public",
-    "pinned": true,
     "stars": 1,
     "clones_last_14_days": 4,
     "clones_unique": 4,
@@ -317,7 +319,6 @@
     "language": "JavaScript",
     "date": "2024-05-14",
     "visibility": "Public",
-    "pinned": true,
     "stars": 0,
     "clones_last_14_days": 22,
     "clones_unique": 21,
@@ -680,7 +681,6 @@
     "language": "NodeJS",
     "date": "2022-05-18",
     "visibility": "Public",
-    "pinned": true,
     "stars": 0,
     "clones_last_14_days": 3,
     "clones_unique": 3,
