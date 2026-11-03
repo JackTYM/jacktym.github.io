@@ -11,8 +11,8 @@
       "/img/projects/corvette-positraction/thumbnail.png",
       "/img/projects/corvette-positraction/collection.png"
     ],
-    "clones_last_14_days": 13,
-    "clones_unique": 11,
+    "clones_last_14_days": 11,
+    "clones_unique": 9,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -27,8 +27,8 @@
     "images": [
       "/img/projects/sogen/thumbnail.png"
     ],
-    "clones_last_14_days": 6424,
-    "clones_unique": 198,
+    "clones_last_14_days": 7709,
+    "clones_unique": 239,
     "visitors_last_14_days": 32,
     "visitors_unique": 5
   },
@@ -43,8 +43,8 @@
     "images": [
       "/img/projects/SogenIOS/thumbnail.png"
     ],
-    "clones_last_14_days": 30,
-    "clones_unique": 29,
+    "clones_last_14_days": 34,
+    "clones_unique": 31,
     "visitors_last_14_days": 5,
     "visitors_unique": 3
   },
@@ -101,8 +101,8 @@
       "/img/projects/random-shit-tracker/thumbnail.png",
       "/img/projects/random-shit-tracker/browse.png"
     ],
-    "clones_last_14_days": 8,
-    "clones_unique": 7,
+    "clones_last_14_days": 9,
+    "clones_unique": 8,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
   },
@@ -121,10 +121,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 6,
-    "clones_last_14_days": 530,
-    "clones_unique": 41,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3
+    "clones_last_14_days": 531,
+    "clones_unique": 42,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4
   },
   {
     "name": "myolfactorylab",
@@ -150,8 +150,8 @@
     "date": "2026-06-21",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 11,
-    "clones_unique": 10,
+    "clones_last_14_days": 10,
+    "clones_unique": 9,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -184,8 +184,8 @@
       "/img/projects/YargerDevelopment/thumbnail.png",
       "/img/projects/YargerDevelopment/pricing.png"
     ],
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
   },
@@ -200,8 +200,8 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -225,8 +225,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 25,
-    "clones_unique": 16,
+    "clones_last_14_days": 23,
+    "clones_unique": 14,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -338,8 +338,8 @@
     "stars": 1,
     "clones_last_14_days": 11,
     "clones_unique": 7,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 2,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -383,8 +383,8 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 9,
-    "clones_unique": 8,
+    "clones_last_14_days": 10,
+    "clones_unique": 9,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -433,8 +433,8 @@
     "date": "2023-12-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 8,
+    "clones_unique": 7,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -456,8 +456,8 @@
     "stars": 0,
     "clones_last_14_days": 6,
     "clones_unique": 5,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -598,8 +598,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -652,8 +652,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 4,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -726,8 +726,8 @@
     "date": "2022-05-18",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 3,
     "visitors_unique": 2,
     "images": [
@@ -757,8 +757,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 7,
-    "clones_unique": 7,
+    "clones_last_14_days": 8,
+    "clones_unique": 8,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -772,9 +772,9 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 24,
-    "clones_unique": 22,
-    "visitors_last_14_days": 75,
+    "clones_last_14_days": 23,
+    "clones_unique": 21,
+    "visitors_last_14_days": 77,
     "visitors_unique": 36,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
@@ -819,8 +819,8 @@
     "date": "2021-04-26",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
