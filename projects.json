@@ -11,8 +11,8 @@
       "/img/projects/corvette-positraction/thumbnail.png",
       "/img/projects/corvette-positraction/collection.png"
     ],
-    "clones_last_14_days": 10,
-    "clones_unique": 8,
+    "clones_last_14_days": 9,
+    "clones_unique": 7,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -27,10 +27,10 @@
     "images": [
       "/img/projects/sogen/thumbnail.png"
     ],
-    "clones_last_14_days": 13696,
-    "clones_unique": 408,
-    "visitors_last_14_days": 36,
-    "visitors_unique": 6
+    "clones_last_14_days": 13303,
+    "clones_unique": 415,
+    "visitors_last_14_days": 16,
+    "visitors_unique": 5
   },
   {
     "name": "SogenIOS",
@@ -45,8 +45,8 @@
     ],
     "clones_last_14_days": 55,
     "clones_unique": 52,
-    "visitors_last_14_days": 7,
-    "visitors_unique": 5
+    "visitors_last_14_days": 3,
+    "visitors_unique": 3
   },
   {
     "name": "CemuBar",
@@ -71,10 +71,10 @@
       "/img/projects/t3code/thumbnail.png",
       "/img/projects/t3code/testimonials.png"
     ],
-    "clones_last_14_days": 1045,
-    "clones_unique": 151,
-    "visitors_last_14_days": 8,
-    "visitors_unique": 4
+    "clones_last_14_days": 1166,
+    "clones_unique": 177,
+    "visitors_last_14_days": 7,
+    "visitors_unique": 3
   },
   {
     "name": "kingpost",
@@ -101,10 +101,10 @@
       "/img/projects/random-shit-tracker/thumbnail.png",
       "/img/projects/random-shit-tracker/browse.png"
     ],
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "devils_advisor",
@@ -120,8 +120,8 @@
     "date": "2026-09-22",
     "visibility": "Public",
     "pinned": true,
-    "stars": 6,
-    "clones_last_14_days": 559,
+    "stars": 5,
+    "clones_last_14_days": 539,
     "clones_unique": 42,
     "visitors_last_14_days": 38,
     "visitors_unique": 35
@@ -138,8 +138,8 @@
       "/img/projects/myolfactorylab/thumbnail.png",
       "/img/projects/myolfactorylab/report.png"
     ],
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -184,8 +184,8 @@
       "/img/projects/YargerDevelopment/thumbnail.png",
       "/img/projects/YargerDevelopment/pricing.png"
     ],
-    "clones_last_14_days": 4,
-    "clones_unique": 3,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
   },
@@ -200,10 +200,10 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "chaos-craft-flipper",
@@ -226,7 +226,7 @@
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
     "clones_last_14_days": 20,
-    "clones_unique": 10,
+    "clones_unique": 11,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -241,8 +241,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 7,
-    "clones_unique": 5,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -257,8 +257,8 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 8,
-    "clones_unique": 6,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -293,8 +293,8 @@
     "date": "2025-02-06",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -383,10 +383,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 8,
-    "clones_unique": 7,
-    "visitors_last_14_days": 5,
-    "visitors_unique": 5,
+    "clones_last_14_days": 6,
+    "clones_unique": 6,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
       "/img/projects/MarketShark/astraea.png",
@@ -433,8 +433,8 @@
     "date": "2023-12-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -469,8 +469,8 @@
     "date": "2023-08-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -523,7 +523,7 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 5,
+    "clones_last_14_days": 4,
     "clones_unique": 4,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
@@ -540,10 +540,10 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 165,
-    "clones_unique": 55,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "clones_last_14_days": 164,
+    "clones_unique": 57,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/jacktym.github.io/page.png"
     ]
@@ -581,8 +581,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 5,
     "visitors_unique": 1,
     "images": [
@@ -598,8 +598,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 8,
-    "clones_unique": 6,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -637,8 +637,8 @@
     "date": "2022-11-07",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 6,
-    "clones_unique": 6,
+    "clones_last_14_days": 7,
+    "clones_unique": 7,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -652,8 +652,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 4,
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -710,8 +710,8 @@
     "date": "2022-06-21",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -757,8 +757,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -772,10 +772,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 23,
-    "clones_unique": 22,
-    "visitors_last_14_days": 115,
-    "visitors_unique": 47,
+    "clones_last_14_days": 24,
+    "clones_unique": 23,
+    "visitors_last_14_days": 112,
+    "visitors_unique": 44,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -789,8 +789,8 @@
     "date": "2021-11-18",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 4,
-    "clones_unique": 4,
+    "clones_last_14_days": 5,
+    "clones_unique": 5,
     "visitors_last_14_days": 7,
     "visitors_unique": 7,
     "images": [
@@ -804,8 +804,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 7,
-    "clones_unique": 5,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -819,10 +819,10 @@
     "date": "2021-04-26",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 2,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/JTools/thumbnail.png"
     ]
