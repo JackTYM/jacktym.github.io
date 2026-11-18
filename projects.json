@@ -523,10 +523,10 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 12,
-    "clones_unique": 9,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 1,
+    "clones_last_14_days": 13,
+    "clones_unique": 10,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/hypixel-botnet-server/thumbnail.png",
       "/img/projects/hypixel-botnet-server/ender_spleef.png",
@@ -791,8 +791,8 @@
     "stars": 2,
     "clones_last_14_days": 7,
     "clones_unique": 6,
-    "visitors_last_14_days": 11,
-    "visitors_unique": 11,
+    "visitors_last_14_days": 5,
+    "visitors_unique": 5,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
@@ -804,10 +804,10 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 12,
-    "clones_unique": 8,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "clones_last_14_days": 10,
+    "clones_unique": 6,
+    "visitors_last_14_days": 3,
+    "visitors_unique": 2,
     "images": [
       "/img/projects/JackTYM/thumbnail.png"
     ]
