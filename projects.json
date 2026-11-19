@@ -43,10 +43,10 @@
     "images": [
       "/img/projects/SogenIOS/thumbnail.png"
     ],
-    "clones_last_14_days": 67,
-    "clones_unique": 63,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2
+    "clones_last_14_days": 69,
+    "clones_unique": 65,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "CemuBar",
@@ -225,7 +225,7 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 14,
+    "clones_last_14_days": 16,
     "clones_unique": 11,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
@@ -257,8 +257,8 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 7,
-    "clones_unique": 6,
+    "clones_last_14_days": 9,
+    "clones_unique": 8,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -598,8 +598,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 9,
-    "clones_unique": 7,
+    "clones_last_14_days": 8,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
