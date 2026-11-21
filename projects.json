@@ -11,7 +11,7 @@
       "/img/projects/corvette-positraction/thumbnail.png",
       "/img/projects/corvette-positraction/collection.png"
     ],
-    "clones_last_14_days": 10,
+    "clones_last_14_days": 9,
     "clones_unique": 9,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
@@ -27,8 +27,8 @@
     "images": [
       "/img/projects/sogen/thumbnail.png"
     ],
-    "clones_last_14_days": 4996,
-    "clones_unique": 240,
+    "clones_last_14_days": 4385,
+    "clones_unique": 220,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -43,8 +43,8 @@
     "images": [
       "/img/projects/SogenIOS/thumbnail.png"
     ],
-    "clones_last_14_days": 39,
-    "clones_unique": 36,
+    "clones_last_14_days": 40,
+    "clones_unique": 37,
     "visitors_last_14_days": 2,
     "visitors_unique": 2
   },
@@ -71,8 +71,8 @@
       "/img/projects/t3code/thumbnail.png",
       "/img/projects/t3code/testimonials.png"
     ],
-    "clones_last_14_days": 1387,
-    "clones_unique": 240,
+    "clones_last_14_days": 1218,
+    "clones_unique": 208,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -121,10 +121,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 6,
-    "clones_last_14_days": 866,
-    "clones_unique": 51,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2
+    "clones_last_14_days": 870,
+    "clones_unique": 54,
+    "visitors_last_14_days": 7,
+    "visitors_unique": 3
   },
   {
     "name": "myolfactorylab",
@@ -138,8 +138,8 @@
       "/img/projects/myolfactorylab/thumbnail.png",
       "/img/projects/myolfactorylab/report.png"
     ],
-    "clones_last_14_days": 8,
-    "clones_unique": 7,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -225,8 +225,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 18,
-    "clones_unique": 13,
+    "clones_last_14_days": 16,
+    "clones_unique": 12,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -241,7 +241,7 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 3,
+    "clones_last_14_days": 4,
     "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
@@ -293,8 +293,8 @@
     "date": "2025-02-06",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 2,
     "visitors_unique": 2,
     "images": [
@@ -310,8 +310,8 @@
     "date": "2024-11-22",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 2,
+    "clones_last_14_days": 2,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -336,10 +336,10 @@
     "date": "2024-08-07",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 9,
-    "clones_unique": 7,
-    "visitors_last_14_days": 2,
-    "visitors_unique": 2,
+    "clones_last_14_days": 10,
+    "clones_unique": 8,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/MarketSharkHeadless/thumbnail.png",
       "/img/projects/MarketSharkHeadless/hyperion.png",
@@ -454,8 +454,8 @@
     "date": "2023-11-29",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -540,8 +540,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 203,
-    "clones_unique": 83,
+    "clones_last_14_days": 207,
+    "clones_unique": 84,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -639,8 +639,8 @@
     "stars": 0,
     "clones_last_14_days": 5,
     "clones_unique": 5,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/JsUnblockedHub/page.png"
     ]
@@ -772,10 +772,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 15,
-    "clones_unique": 13,
-    "visitors_last_14_days": 91,
-    "visitors_unique": 49,
+    "clones_last_14_days": 13,
+    "clones_unique": 12,
+    "visitors_last_14_days": 109,
+    "visitors_unique": 54,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
