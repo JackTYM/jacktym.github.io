@@ -11,8 +11,8 @@
       "/img/projects/corvette-positraction/thumbnail.png",
       "/img/projects/corvette-positraction/collection.png"
     ],
-    "clones_last_14_days": 8,
-    "clones_unique": 7,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -200,10 +200,10 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 7,
-    "clones_unique": 5,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0
   },
   {
     "name": "chaos-craft-flipper",
@@ -241,8 +241,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 3,
-    "clones_unique": 2,
+    "clones_last_14_days": 6,
+    "clones_unique": 4,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
   },
@@ -295,8 +295,8 @@
     "stars": 0,
     "clones_last_14_days": 6,
     "clones_unique": 5,
-    "visitors_last_14_days": 3,
-    "visitors_unique": 3,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1,
     "images": [
       "/img/projects/sha256-rs/thumbnail.png",
       "/img/projects/sha256-rs/k_chart.png",
@@ -598,8 +598,8 @@
     "date": "2022-12-14",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -804,8 +804,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 5,
-    "clones_unique": 3,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
