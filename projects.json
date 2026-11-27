@@ -27,8 +27,8 @@
     "images": [
       "/img/projects/sogen/thumbnail.png"
     ],
-    "clones_last_14_days": 6992,
-    "clones_unique": 267,
+    "clones_last_14_days": 9082,
+    "clones_unique": 322,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -43,8 +43,8 @@
     "images": [
       "/img/projects/SogenIOS/thumbnail.png"
     ],
-    "clones_last_14_days": 36,
-    "clones_unique": 30,
+    "clones_last_14_days": 34,
+    "clones_unique": 29,
     "visitors_last_14_days": 2,
     "visitors_unique": 2
   },
@@ -101,8 +101,8 @@
       "/img/projects/random-shit-tracker/thumbnail.png",
       "/img/projects/random-shit-tracker/browse.png"
     ],
-    "clones_last_14_days": 48,
-    "clones_unique": 26,
+    "clones_last_14_days": 51,
+    "clones_unique": 27,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -121,10 +121,10 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 6,
-    "clones_last_14_days": 105,
-    "clones_unique": 60,
-    "visitors_last_14_days": 10,
-    "visitors_unique": 4
+    "clones_last_14_days": 97,
+    "clones_unique": 51,
+    "visitors_last_14_days": 15,
+    "visitors_unique": 6
   },
   {
     "name": "myolfactorylab",
@@ -150,8 +150,8 @@
     "date": "2026-06-21",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -200,10 +200,10 @@
     "images": [
       "/img/projects/SkyblockItemCreator/thumbnail.png"
     ],
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
-    "visitors_last_14_days": 0,
-    "visitors_unique": 0
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
+    "visitors_last_14_days": 1,
+    "visitors_unique": 1
   },
   {
     "name": "chaos-craft-flipper",
@@ -225,8 +225,8 @@
     "images": [
       "/img/projects/cuttlefish-rs/thumbnail.png"
     ],
-    "clones_last_14_days": 19,
-    "clones_unique": 14,
+    "clones_last_14_days": 17,
+    "clones_unique": 12,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -241,8 +241,8 @@
     "images": [
       "/img/projects/Charmventory/thumbnail.png"
     ],
-    "clones_last_14_days": 6,
-    "clones_unique": 4,
+    "clones_last_14_days": 7,
+    "clones_unique": 5,
     "visitors_last_14_days": 1,
     "visitors_unique": 1
   },
@@ -257,8 +257,8 @@
     "images": [
       "/img/projects/twoteaspoons/thumbnail.png"
     ],
-    "clones_last_14_days": 13,
-    "clones_unique": 10,
+    "clones_last_14_days": 14,
+    "clones_unique": 11,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -293,8 +293,8 @@
     "date": "2025-02-06",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 5,
+    "clones_unique": 4,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -523,8 +523,8 @@
     "date": "2023-03-31",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 3,
     "visitors_last_14_days": 5,
     "visitors_unique": 2,
     "images": [
@@ -566,8 +566,8 @@
     "date": "2022-12-20",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -804,8 +804,8 @@
     "date": "2021-04-27",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 1,
+    "clones_unique": 1,
     "visitors_last_14_days": 2,
     "visitors_unique": 1,
     "images": [
