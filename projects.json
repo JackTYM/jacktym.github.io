@@ -71,8 +71,8 @@
       "/img/projects/t3code/thumbnail.png",
       "/img/projects/t3code/testimonials.png"
     ],
-    "clones_last_14_days": 901,
-    "clones_unique": 195,
+    "clones_last_14_days": 1062,
+    "clones_unique": 283,
     "visitors_last_14_days": 3,
     "visitors_unique": 3
   },
@@ -138,8 +138,8 @@
       "/img/projects/myolfactorylab/thumbnail.png",
       "/img/projects/myolfactorylab/report.png"
     ],
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 7,
+    "clones_unique": 6,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -184,8 +184,8 @@
       "/img/projects/YargerDevelopment/thumbnail.png",
       "/img/projects/YargerDevelopment/pricing.png"
     ],
-    "clones_last_14_days": 5,
-    "clones_unique": 4,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0
   },
@@ -336,8 +336,8 @@
     "date": "2024-08-07",
     "visibility": "Public",
     "stars": 1,
-    "clones_last_14_days": 2,
-    "clones_unique": 2,
+    "clones_last_14_days": 3,
+    "clones_unique": 3,
     "visitors_last_14_days": 1,
     "visitors_unique": 1,
     "images": [
@@ -364,8 +364,8 @@
     "date": "2024-05-14",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 11,
-    "clones_unique": 5,
+    "clones_last_14_days": 9,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -383,9 +383,9 @@
     "visibility": "Public",
     "pinned": true,
     "stars": 1,
-    "clones_last_14_days": 3,
-    "clones_unique": 3,
-    "visitors_last_14_days": 10,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
+    "visitors_last_14_days": 15,
     "visitors_unique": 6,
     "images": [
       "/img/projects/MarketShark/thumbnail.png",
@@ -456,8 +456,8 @@
     "stars": 0,
     "clones_last_14_days": 4,
     "clones_unique": 4,
-    "visitors_last_14_days": 1,
-    "visitors_unique": 1,
+    "visitors_last_14_days": 0,
+    "visitors_unique": 0,
     "images": [
       "/img/projects/DemoFPS/thumbnail.png"
     ]
@@ -540,8 +540,8 @@
     "date": "2023-02-01",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 213,
-    "clones_unique": 89,
+    "clones_last_14_days": 223,
+    "clones_unique": 94,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -582,7 +582,7 @@
     "visibility": "Public",
     "stars": 0,
     "clones_last_14_days": 2,
-    "clones_unique": 1,
+    "clones_unique": 2,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -652,8 +652,8 @@
     "date": "2022-10-26",
     "visibility": "Public",
     "stars": 4,
-    "clones_last_14_days": 6,
-    "clones_unique": 5,
+    "clones_last_14_days": 4,
+    "clones_unique": 4,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -710,8 +710,8 @@
     "date": "2022-06-21",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 8,
-    "clones_unique": 6,
+    "clones_last_14_days": 6,
+    "clones_unique": 5,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -726,8 +726,8 @@
     "date": "2022-05-18",
     "visibility": "Public",
     "stars": 0,
-    "clones_last_14_days": 1,
-    "clones_unique": 1,
+    "clones_last_14_days": 2,
+    "clones_unique": 2,
     "visitors_last_14_days": 5,
     "visitors_unique": 5,
     "images": [
@@ -757,8 +757,8 @@
     "date": "2022-03-09",
     "visibility": "Public",
     "stars": 2,
-    "clones_last_14_days": 3,
-    "clones_unique": 2,
+    "clones_last_14_days": 2,
+    "clones_unique": 1,
     "visitors_last_14_days": 0,
     "visitors_unique": 0,
     "images": [
@@ -772,10 +772,10 @@
     "date": "2022-01-21",
     "visibility": "Public",
     "stars": 35,
-    "clones_last_14_days": 14,
+    "clones_last_14_days": 16,
     "clones_unique": 13,
-    "visitors_last_14_days": 110,
-    "visitors_unique": 59,
+    "visitors_last_14_days": 118,
+    "visitors_unique": 61,
     "images": [
       "/img/projects/AIOMacro/thumbnail.png",
       "/img/projects/AIOMacro/banner.png",
@@ -791,8 +791,8 @@
     "stars": 2,
     "clones_last_14_days": 6,
     "clones_unique": 5,
-    "visitors_last_14_days": 8,
-    "visitors_unique": 8,
+    "visitors_last_14_days": 4,
+    "visitors_unique": 4,
     "images": [
       "/img/projects/SkyblockFlipper/thumbnail.png"
     ]
